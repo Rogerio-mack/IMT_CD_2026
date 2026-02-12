@@ -1,4 +1,4 @@
-<img src="https://github.com/Rogerio-mack/IMT_CD_2025/blob/main/maua_logo.png?raw=true" width=300>
+<img src="https://raw.githubusercontent.com/Rogerio-mack/IMT_CD_2026/refs/heads/main/logo.avif?raw=true" width=300>
 
 <br>
 
@@ -31,5 +31,5 @@
 
 #### **12.02** [Ciências de Dados e Usos](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2026/blob/main/Ciencias_de_Dados_e_Usos.ipynb)
 
-* [Leia *"A brief history of data science"* (cap. 1)](https://github.com/Rogerio-mack/IMT_CD_2025/blob/main/dsp.pdf)
+* [Leia *"A brief history of data science"* (cap. 1)](https://github.com/Rogerio-mack/IMT_CD_2026/blob/main/books/dsp.pdf)
 
