@@ -33,3 +33,8 @@
 
 * [Leia *"A brief history of data science"* (cap. 1)](https://github.com/Rogerio-mack/IMT_CD_2026/blob/main/books/dsp.pdf)
 
+#### **19.02** [Standard Process for Data Mining](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2026/blob/main/Standard_Process_for_Data_Mining.ipynb)
+
+* [Exercício: Paradigma de Aprendizado de Máquina](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2026/blob/main/Paradigma_de_ML.ipynb) | [Solução](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/Paradigma_de_ML_solucao.ipynb)
+* [The Six Pillars for Building Big Data Analytics Ecosystems](https://github.com/Rogerio-mack/IMT_CD_2026/blob/main/The_Six_Pillars_for_Building_Big_Data_Analytics_Ecosystems.pdf)
+
