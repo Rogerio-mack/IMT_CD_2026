@@ -36,5 +36,16 @@
 #### **19.02** [Standard Process for Data Mining](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2026/blob/main/Standard_Process_for_Data_Mining.ipynb)
 
 * [Exercício: Paradigma de Aprendizado de Máquina](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2026/blob/main/Paradigma_de_ML.ipynb) | [Solução](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2026/blob/main/Paradigma_de_ML_solucao.ipynb)
-* [The Six Pillars for Building Big Data Analytics Ecosystems](https://github.com/Rogerio-mack/IMT_CD_2026/blob/main/The_Six_Pillars_for_Building_Big_Data_Analytics_Ecosystems.pdf)
+
+#### **26.02** [Standard Process for Data Mining](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2026/blob/main/Standard_Process_for_Data_Mining.ipynb)
+
+* [Casos Clássicos (Walmart, Target, Oaklan)](https://colab.research.google.com/github/Rogerio-mack/BIG_DATA_Analytics_Mineracao_e_Analise_de_Dados/blob/main/BIG_T1_Introducao_a_Ciencia_de_Dados_e_ML.ipynb)
+
+#### **05.03** [Standard Process for Data Mining](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2026/blob/main/Standard_Process_for_Data_Mining.ipynb)
+
+* [DIKW e Representação do Conhecimento](https://github.com/microsoft/AI-For-Beginners/blob/main/lessons/2-Symbolic/README.md)
+* [Tipos de Dados e Ações Sobre os Dados](https://github.com/microsoft/Data-Science-For-Beginners/blob/main/1-Introduction/01-defining-data-science/README.md)
+* [Ecosistemas de Ciência de Dados](https://github.com/Rogerio-mack/IMT_CD_2026/blob/main/The_Six_Pillars_for_Building_Big_Data_Analytics_Ecosystems.pdf)
+ 
+  
 
