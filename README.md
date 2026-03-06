@@ -49,7 +49,7 @@
 
 ### Pandas  
 
-#### **05.03** [Introdução ao Pandas](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/Pandas_I.ipynb)
+#### **05.03** [Introdução ao Pandas](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2026/blob/main/Pandas_I.ipynb)
 * [VanderPlas, Jake (2016). **Python Data Science Handbook**. O'Reilly Media, Inc.](https://jakevdp.github.io/PythonDataScienceHandbook)  
 * [McKinney, Wes (2023). **Python for Data Analysis**, 3E](https://wesmckinney.com/book/)
 * [Classic Datasets](https://vincentarelbundock.github.io/Rdatasets/)
