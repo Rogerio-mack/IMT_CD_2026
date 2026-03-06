@@ -46,6 +46,15 @@
 * [DIKW e Representação do Conhecimento](https://github.com/microsoft/AI-For-Beginners/blob/main/lessons/2-Symbolic/README.md)
 * [Tipos de Dados e Ações Sobre os Dados](https://github.com/microsoft/Data-Science-For-Beginners/blob/main/1-Introduction/01-defining-data-science/README.md)
 * [Ecosistemas de Ciência de Dados](https://github.com/Rogerio-mack/IMT_CD_2026/blob/main/The_Six_Pillars_for_Building_Big_Data_Analytics_Ecosystems.pdf)
+
+#### Pandas  
+
+* [Introdução ao Pandas](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/Pandas_I.ipynb)
+* [VanderPlas, Jake (2016). **Python Data Science Handbook**. O'Reilly Media, Inc.](https://jakevdp.github.io/PythonDataScienceHandbook)  
+* [McKinney, Wes (2023). **Python for Data Analysis**, 3E](https://wesmckinney.com/book/)
+* [Classic Datasets](https://vincentarelbundock.github.io/Rdatasets/)
+
+
  
   
 
