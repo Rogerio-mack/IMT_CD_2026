@@ -27,7 +27,7 @@
 
 ## Programação
 
-### Introdução, IA X Ciência de Dados, CRISP DM, Colab
+### Introdução, IA X Ciência de Dados, CRISP DM 
 
 #### **12.02** [Ciências de Dados e Usos](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2026/blob/main/Ciencias_de_Dados_e_Usos.ipynb)
 
