@@ -55,7 +55,20 @@
 * [Wickham, H., & Grolemund, G. (2016). **R for data science: import, tidy, transform, visualize, and model data**. O'Reilly Media, Inc.](https://r4ds.had.co.nz/index.html) 
 * [Classic Datasets](https://vincentarelbundock.github.io/Rdatasets/)
 
+* Hands on [CASchools](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2026/blob/main/Exemplo_CASchools.ipynb)
+* Hands on [CigarettsSW](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2026/blob/main/Exemplo_CigarettesSW.ipynb)
 
- 
+ #### **12.03** [Seleção de Dados](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2026/blob/main/Pandas_I.ipynb)
+* [VanderPlas, Jake (2016). **Python Data Science Handbook**. O'Reilly Media, Inc.](https://jakevdp.github.io/PythonDataScienceHandbook)  
+* [McKinney, Wes (2023). **Python for Data Analysis**, 3E](https://wesmckinney.com/book/)
+* [Wickham, H., & Grolemund, G. (2016). **R for data science: import, tidy, transform, visualize, and model data**. O'Reilly Media, Inc.](https://r4ds.had.co.nz/index.html) 
+
+* Hands on [CASchools Seleção](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2026/blob/main/Exemplo_CASchools_selecao.ipynb)
+* Hands on [CigarettsSW_Seleção](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2026/blob/main/Exemplo_CigarettesSW_selecao.ipynb)
+
+* [Exercício Pandas Seleção](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2026/blob/main/ex_pandas1.ipynb)
+
+* **Atenção:** Lab avaliativo 20.04
+
   
 
