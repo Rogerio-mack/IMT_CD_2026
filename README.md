@@ -68,7 +68,7 @@
 
 * [Exercício Pandas Seleção](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2026/blob/main/ex_pandas1.ipynb)
 
-* **Atenção:** Lab avaliativo 20.04
+* **Atenção:** Lab avaliativo 20.03
 
   
 
