@@ -70,5 +70,7 @@
 
 * **Atenção:** Lab avaliativo 20.03
 
+* Hands on [Pandas Índices, `df.loc` `df.iloc`](https://colab.research.google.com/drive/13uMq-7R_TPZUVav1kJVE_qjMSyAoXtb7?usp=sharing)
+
   
 
