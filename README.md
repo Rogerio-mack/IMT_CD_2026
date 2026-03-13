@@ -66,11 +66,11 @@
 * Hands on [CASchools Seleção](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2026/blob/main/Exemplo_CASchools_selecao.ipynb)
 * Hands on [CigarettsSW_Seleção](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2026/blob/main/Exemplo_CigarettesSW_selecao.ipynb)
 
-* [Exercício Pandas Seleção](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2026/blob/main/ex_pandas1.ipynb)
+* [Exercício Pandas Seleção](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2026/blob/main/ex_pandas1.ipynb) | [Solução](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2026/blob/main/ex_pandas1_solucao.ipynb)
 
 * **Atenção:** Lab avaliativo 20.03
 
-* Hands on [Pandas Índices, `df.loc` `df.iloc`](https://colab.research.google.com/drive/13uMq-7R_TPZUVav1kJVE_qjMSyAoXtb7?usp=sharing)
+* Hands on [Pandas Índices, `df.loc` `df.iloc`](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2026/blob/main/Pandas_indices_handson.ipynb)
 
   
 
