@@ -68,6 +68,8 @@
 
 * [Exercício Pandas Seleção](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2026/blob/main/ex_pandas1.ipynb) | [Solução](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2026/blob/main/ex_pandas1_solucao.ipynb)
 
+* Hands on [Pandas Índices, `df.loc` `df.iloc`](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2026/blob/main/Pandas_indices_handson.ipynb)
+
 * **Atenção:** Lab avaliativo 20.03
 
 #### **19.03** [Mais sobre Seleções e Atualização de Dados](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2026/blob/main/Pandas_I.ipynb)
@@ -75,7 +77,7 @@
 * [McKinney, Wes (2023). **Python for Data Analysis**, 3E](https://wesmckinney.com/book/)
 * [Wickham, H., & Grolemund, G. (2016). **R for data science: import, tidy, transform, visualize, and model data**. O'Reilly Media, Inc.](https://r4ds.had.co.nz/index.html)
   
-* Hands on [Mais exemplos de Pandas McKinney, Wes (2023), Cap. 5](https://colab.research.google.com/drive/1fjgz9GgMPQtj0mg263KasaYL_Jo-PCzQ?usp=sharing)
+* Hands on [Mais exemplos de Pandas McKinney, Wes (2023), Cap. 5](https://colab.research.google.com/drive/17f4a1a0hR9jru4avxeqBVkeL4xRbclx9?usp=sharing)
 
 > Data to explore (bases de dados públicas):
 > * [WHO World Health Organization (Tuberculosis)](https://www.who.int/teams/global-tuberculosis-programme/data)
