@@ -75,7 +75,7 @@
 * [McKinney, Wes (2023). **Python for Data Analysis**, 3E](https://wesmckinney.com/book/)
 * [Wickham, H., & Grolemund, G. (2016). **R for data science: import, tidy, transform, visualize, and model data**. O'Reilly Media, Inc.](https://r4ds.had.co.nz/index.html)
   
-* Hands on [Mais exemplos de Pandas McKinney, Wes (2023), Cap. 5]()
+* Hands on [Mais exemplos de Pandas McKinney, Wes (2023), Cap. 5](https://colab.research.google.com/drive/1fjgz9GgMPQtj0mg263KasaYL_Jo-PCzQ?usp=sharing)
 
 > Data to explore (bases de dados públicas):
 > * [WHO World Health Organization (Tuberculosis)](https://www.who.int/teams/global-tuberculosis-programme/data)
