@@ -90,8 +90,8 @@
 * [Wickham, H., & Grolemund, G. (2016). **R for data science: import, tidy, transform, visualize, and model data**. O'Reilly Media, Inc.](https://r4ds.had.co.nz/index.html)
   
 * Hands on [GroupBy e Iterações de Grupo (McKinney, Wes (2023), Cap. 10)](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2026/blob/main/hands_on_groupBy.ipynb)
-> * [Exercícios GroupBy](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2026/blob/main/Ex_groupby.ipynb)
-* Hands on [Reshape: Melt, Pivot, Tabelas de Contigência (McKinney, Wes (2023), Cap. 8)](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2026/blob/main/Hands_on_Reshape.ipynb)
-> * [Exercícios Reshape](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2026/blob/main/Ex_reshape.ipynb)
+> * [Exercícios GroupBy](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2026/blob/main/Ex_groupby.ipynb) | [Solução](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2026/blob/main/Ex_groupby_solucao.ipynb)
+* Hands on [Reshape: Melt, Pivot, Tabelas de Contigência (McKinney, Wes (2023), Cap. 8)](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2026/blob/main/Hands_on_Reshape.ipynb) 
+> * [Exercícios Reshape](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2026/blob/main/Ex_reshape.ipynb) | [Solução](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2026/blob/main/Ex_reshape_solucao.ipynb)
 * Hands on [Joins e Merges, Concat (McKinney, Wes (2023), Cap. 8)](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2026/blob/main/Pandas_I.ipynb#scrollTo=lvwz8YbFj3LI)
 * Hands on [Manipulação de String, apply, regex (McKinney, Wes (2023), Cap. 7)](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2026/blob/main/Vetorizacao_apply.ipynb)
