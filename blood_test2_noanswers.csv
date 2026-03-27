@@ -1,0 +1,31 @@
+record,name,cpf,birthday,Gluconise,Adrino_posina,Gamma_R,Nitro_K,H278,Plate,Factor_risk,norm_gamma_type,Blood_type,Blood_Rh,Low_Risk,Medium_Risk,High_Risk,Risk
+85071,Pedro Henrique Araújo,6952437800,2017-08-06,1166.2016,Uncovered,4,2.66,1584.72,DD,3,0,AB,+,True,False,False,Low
+7206,Sr. Lucca Gomes,47682305126,2018-08-22,1140.6751,Clinical Done,5,2.92,4228.09,CS,4,1,AB,+,True,False,False,Low
+47727,Davi Luiz da Rosa,30869742574,2017-10-28,848.3981,Capsuled,3,2.9,4069.99,CS,4,1,A,+,False,True,True,High
+64626,Vitor Hugo Souza,17693205470,2013-10-05,761.2512,Covered,5,3.47,9763.64,DD,5,1,A,+,False,True,True,High
+76250,Srta. Isadora Melo,52874306126,2014-12-02,977.8314,Clinical Done,6,3.09,,DD,5,0,B,+,False,True,False,Medium
+33150,Larissa Melo,4518623924,2008-07-03,1528.243,Clinical Done,1,3.47,9687.3,B,5,0,A,+,False,True,True,High
+15233,Luiz Gustavo Vieira,41879603250,2015-04-17,888.237,Clinical Done,7,6.8,43036.13,A,8,0,,+,True,False,False,Low
+12230,Maria Alice da Luz,92104857694,2007-09-23,1072.6379,,3,5.46,29651.47,DD,8,1,A,+,True,False,False,Low
+93999,Sra. Olivia Moura,1783465948,2000-05-16,868.8205,Covered,4,2.59,950.33,DD,3,1,AB,-,False,True,False,Medium
+61662,Ana Beatriz da Mota,48093265198,2017-04-08,1190.6355,Capsuled,2,3.08,5867.24,DD,5,0,,-,False,True,False,Medium
+66922,Anthony Rocha,32709561425,2020-02-28,1462.3228,Capsuled,3,3.44,9460.96,B,5,1,O,+,True,False,False,Low
+33923,Maria Alice Pereira,71063954800,2019-07-05,1411.3907,,1,2.56,656.55,CS,3,0,O,+,False,True,False,Medium
+47273,Natália Fernandes,32659740810,2023-06-01,1191.891,Capsuled,9,3.23,7338.04,B,5,0,B,+,True,False,False,Low
+79274,Vitória Santos,20673159434,2017-01-30,738.8213,,3,2.72,2251.65,DD,4,1,B,-,True,False,False,Low
+4115,Erick Ribeiro,71902635434,2003-03-14,909.1544,Clinical Done,4,3.88,13820.61,DD,6,0,AB,+,True,False,False,Low
+90711,Alexandre Barros,13907286502,2013-09-02,1056.1734,Clinical Done,2,3.2,7005.85,X,5,0,B,+,True,False,False,Low
+63063,Dra. Maria Sophia da Cruz,71286450390,2013-06-01,1278.426,Capsuled,5,3.04,5465.79,X,5,0,,+,False,True,False,Medium
+661,Sophie Correia,28416097585,2011-06-09,1077.9519,Clinical Done,4,5.84,33377.58,DD,8,1,O,-,False,True,False,Medium
+24629,Olivia Porto,97680534101,2020-10-29,811.3616,Covered,3,3.09,5930.54,CS,5,1,,+,False,True,False,Medium
+19752,André Mendes,19562370895,2009-01-14,1386.8652,,7,2.66,1579.38,X,3,1,O,-,False,True,True,High
+71441,Rodrigo Porto,32195784032,2005-11-11,1107.1692,Capsuled,6,2.54,469.27,DD,2,1,,+,True,False,False,Low
+941,Daniela Pires,96724803500,2010-04-05,548.8121,Covered,10,5.79,32898.41,A,8,0,,+,True,False,False,Low
+76920,Levi Cunha,69358472065,2022-10-31,1180.0681,Clinical Done,9,6.14,36383.27,X,8,1,,-,False,True,False,Medium
+7616,Guilherme da Cruz,14089263506,2022-03-18,1005.4779,,4,3.08,5814.4,X,5,0,,-,True,False,False,Low
+46489,Ana Beatriz Mendes,15036974875,2005-10-26,920.5545,Clinical Done,6,2.78,2851.3,DD,4,1,O,+,True,False,False,Low
+48558,Pedro Miguel das Neves,59837460148,2011-11-23,1022.6621,Clinical Done,4,4.66,21658.68,X,7,0,AB,+,True,False,False,Low
+14986,Raquel da Conceição,84137906548,2003-09-10,848.2004,Clinical Done,7,3.22,7204.38,X,5,0,AB,-,True,False,False,Low
+64155,Isis da Rocha,4632587117,2009-05-07,1128.2515,Uncovered,4,3.75,12478.26,B,6,1,A,+,False,True,False,Medium
+90688,Leonardo Costa,16952780386,2014-11-25,709.978,Covered,9,3.41,9152.45,CS,5,0,,+,False,True,True,High
+8013,Luana Santos,42856901360,2012-06-13,1228.745,Uncovered,3,3.95,14565.39,X,6,1,O,+,True,False,False,Low
