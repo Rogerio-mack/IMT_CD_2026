@@ -1,0 +1,1496 @@
+id,Setor,Sexo,Grau_Instrucao,Idade,Anos_Experiencia,Estado,Salario
+1,Operacao,Masculino,Superior Completo,54,12,SP,2708.410161
+2,RH,Masculino,Doutorado,52,12,SP,8321.204
+3,RH,Masculino,Mestrado,54,12,RJ,7588.139
+4,Financeiro,Feminino,Mestrado,32,9,BH,6512.599657
+5,RH,Masculino,Superior Incompleto,34,8,BH,3125.765
+6,Operacao,Masculino,Superior Completo,52,13,BH,1368.040623
+7,Financeiro,Masculino,Superior Completo,65,8,SP,2024.994882
+8,Marketing,Masculino,Superior Completo,31,9,SP,6275.597489
+9,Administrativo,Masculino,Mestrado,32,9,SP,6948.868398
+10,Administrativo,Masculino,Superior Completo,47,15,RJ,8687.786858
+11,Operacao,Feminino,Superior Completo,38,12,SP,10497.98635
+12,Operacao,Masculino,Mestrado,45,16,SP,6488.4462
+13,Operacao,Masculino,Superior Incompleto,40,17,SP,5674.49759
+14,Marketing,Masculino,Superior Incompleto,40,17,SP,2104.902227
+15,Operacao,Masculino,Doutorado,62,9,RJ,10322.45654
+16,Administrativo,Masculino,Superior Completo,47,15,SP,7914.972759
+17,Administrativo,Masculino,Superior Completo,56,11,SP,5595.857117
+18,Operacao,Masculino,Superior Completo,68,7,RJ,2099.212673
+19,Administrativo,Masculino,Mestrado,32,9,BH,6802.579902
+20,Operacao,Feminino,Doutorado,36,8,SP,11336.92536
+21,Operacao,Masculino,Superior Completo,38,12,BH,4019.66437
+22,Operacao,Feminino,Superior Completo,47,15,RJ,3882.414691
+23,Financeiro,Feminino,Superior Incompleto,63,8,SP,2038.753298
+24,Operacao,Feminino,Doutorado,45,16,SP,10882.63033
+25,Operacao,Feminino,Superior Completo,59,10,SP,10479.98072
+26,Operacao,Feminino,Superior Completo,47,15,BH,3732.052369
+27,Financeiro,Masculino,Superior Completo,47,15,BH,2818.107045
+28,Marketing,Feminino,Superior Incompleto,37,13,RJ,2014.408523
+29,Operacao,Feminino,Superior Incompleto,48,14,SP,6450.214915
+30,RH,Feminino,Mestrado,66,8,RJ,7878.497
+31,RH,Feminino,Superior Completo,68,7,SP,6815.129
+32,Operacao,Masculino,Superior Incompleto,63,8,SP,5995.676116
+33,Operacao,Feminino,Superior Completo,38,12,BH,3965.594321
+34,Financeiro,Masculino,Doutorado,55,8,SP,9553.051933
+35,Marketing,Feminino,Superior Completo,47,15,BH,7990.101936
+36,Operacao,Masculino,Superior Completo,59,10,RJ,7976.731281
+37,RH,Masculino,Superior Completo,31,9,SP,7448.003
+38,Administrativo,Masculino,Superior Completo,68,7,RJ,1283.71617
+39,Administrativo,Masculino,Superior Completo,59,10,RJ,7858.388742
+40,Marketing,Feminino,Superior Completo,52,13,SP,4418.462731
+41,Operacao,Masculino,Superior Completo,45,16,SP,5650.687693
+42,Operacao,Feminino,Superior Completo,54,12,BH,11905.46981
+43,Administrativo,Masculino,Superior Completo,50,14,RJ,9278.553358
+44,RH,Masculino,Superior Completo,65,8,BH,5538.2
+45,Operacao,Masculino,Superior Completo,65,8,SP,5287.146529
+46,Operacao,Masculino,Superior Completo,56,11,SP,1985.493
+47,Operacao,Feminino,Superior Completo,38,12,RJ,4907.303883
+49,Operacao,Feminino,Superior Incompleto,60,9,RJ,5692.113328
+50,Financeiro,Feminino,Superior Completo,47,15,SP,7316.81932
+51,Administrativo,Masculino,Superior Completo,65,8,BH,9348.712159
+52,Operacao,Feminino,Mestrado,32,9,SP,6539.558669
+53,RH,Masculino,Superior Completo,65,8,SP,6456.934
+54,Administrativo,Masculino,Superior Incompleto,40,17,SP,2084.595499
+55,Operacao,Feminino,Superior Completo,52,13,SP,3184.665443
+56,Operacao,Feminino,Superior Completo,50,14,SP,5673.816053
+57,Operacao,Masculino,Mestrado,66,8,SP,6789.132785
+58,Administrativo,Masculino,Superior Completo,52,13,BH,6346.430315
+59,RH,Masculino,Superior Incompleto,63,8,RJ,3340.433
+60,Operacao,Masculino,Superior Completo,56,11,BH,6766.258622
+61,RH,Feminino,Superior Completo,56,11,SP,7695.628
+62,Operacao,Masculino,Superior Completo,31,9,SP,3721.075415
+63,Financeiro,Masculino,Superior Incompleto,37,13,SP,1981.299432
+64,Administrativo,Feminino,Superior Completo,42,17,SP,2714.401595
+65,Operacao,Feminino,Superior Completo,54,12,SP,8468.556395
+66,Financeiro,Feminino,Superior Completo,38,12,RJ,3915.61199
+67,Operacao,Feminino,Superior Completo,56,11,RJ,1493.117998
+68,RH,Masculino,Superior Completo,56,11,RJ,5856.344
+69,Marketing,Masculino,Superior Completo,42,17,SP,1993.471
+70,Operacao,Feminino,Superior Completo,47,15,RJ,10760.9612
+71,Administrativo,Feminino,Superior Completo,65,8,SP,3003.497029
+72,Operacao,Masculino,Doutorado,32,8,SP,10245.44055
+73,Operacao,Masculino,Superior Incompleto,29,6,BH,6087.834642
+75,Operacao,Masculino,Superior Completo,65,8,SP,3341.43279
+76,Operacao,Feminino,Superior Completo,50,14,SP,7692.94748
+77,Financeiro,Feminino,Superior Incompleto,57,10,RJ,2012.656641
+78,Financeiro,Feminino,Superior Incompleto,44,16,SP,1919.766258
+79,Administrativo,Masculino,Superior Completo,65,8,SP,4161.377486
+80,Administrativo,Masculino,Mestrado,39,15,SP,6531.472027
+81,Operacao,Masculino,Doutorado,50,14,RJ,10098.32873
+82,Administrativo,Masculino,Doutorado,42,17,RJ,9541.812769
+83,Operacao,Masculino,Superior Incompleto,37,13,SP,6473.591033
+84,Operacao,Feminino,Superior Incompleto,51,13,SP,6439.69793
+85,Marketing,Masculino,Mestrado,52,13,SP,5932.713935
+86,Operacao,Masculino,Superior Completo,68,7,SP,5421.854489
+87,Operacao,Feminino,Superior Completo,65,8,SP,9945.777914
+88,Administrativo,Masculino,Superior Incompleto,37,13,SP,1970.462321
+89,Operacao,Feminino,Doutorado,66,8,SP,8509.870586
+90,Administrativo,Masculino,Superior Completo,54,12,BH,2238.222557
+91,Administrativo,Feminino,Superior Incompleto,60,9,SP,2084.866354
+92,Operacao,Feminino,Doutorado,59,10,SP,11405.73854
+93,Operacao,Feminino,Superior Completo,65,8,SP,6542.589369
+94,Administrativo,Feminino,Superior Completo,50,14,SP,4195.752829
+95,Operacao,Masculino,Superior Incompleto,63,8,SP,6292.847869
+96,Operacao,Masculino,Doutorado,55,11,SP,9279.563799
+98,Operacao,Masculino,Superior Completo,52,13,SP,4274.415876
+99,Operacao,Masculino,Mestrado,69,7,SP,7076.825881
+100,Marketing,Masculino,Superior Completo,42,17,BH,3580.769854
+101,Operacao,Masculino,Superior Completo,35,8,RJ,11227.12444
+102,Administrativo,Masculino,Superior Incompleto,34,8,SP,1999.668612
+103,Operacao,Feminino,Mestrado,42,17,BH,6312.853854
+104,Operacao,Feminino,Superior Completo,38,12,SP,3516.124909
+105,Operacao,Feminino,Superior Incompleto,53,12,SP,6559.620238
+106,Administrativo,Masculino,Superior Completo,50,14,SP,7657.687368
+108,Administrativo,Masculino,Superior Incompleto,51,13,SP,2032.892525
+109,Operacao,Masculino,Superior Incompleto,67,7,SP,5980.192039
+110,Administrativo,Feminino,Superior Incompleto,53,12,SP,1976.103303
+111,Administrativo,Masculino,Superior Completo,45,16,RJ,2361.790555
+113,Operacao,Feminino,Doutorado,48,15,SP,9143.089951
+115,RH,Masculino,Superior Incompleto,60,9,RJ,3912.125
+116,Operacao,Masculino,Superior Completo,38,12,SP,3891.980257
+117,Operacao,Feminino,Mestrado,66,8,RJ,6651.823737
+118,Operacao,Masculino,Superior Incompleto,48,14,SP,6670.74731
+119,Marketing,Feminino,Doutorado,52,13,SP,11301.24377
+120,Operacao,Masculino,Mestrado,62,9,BH,6157.362857
+121,RH,Masculino,Superior Completo,47,15,BH,6466.98
+122,Administrativo,Feminino,Superior Completo,35,8,SP,1993.913
+123,Administrativo,Masculino,Superior Incompleto,48,14,BH,2009.767175
+124,Operacao,Masculino,Superior Completo,31,9,SP,7343.662506
+125,Operacao,Feminino,Superior Completo,54,12,BH,6900.642358
+126,Financeiro,Masculino,Doutorado,55,10,SP,10929.57923
+127,Administrativo,Masculino,Superior Completo,38,12,SP,10978.93471
+128,Operacao,Masculino,Superior Completo,62,9,SP,10170.40271
+129,Administrativo,Feminino,Superior Completo,35,8,BH,6707.400727
+130,Administrativo,Masculino,Mestrado,39,15,SP,6517.817334
+131,Operacao,Masculino,Superior Completo,31,9,RJ,10255.30551
+132,RH,Feminino,Superior Incompleto,55,11,RJ,3431.752
+133,Administrativo,Masculino,Superior Completo,50,14,SP,6301.678869
+134,Operacao,Masculino,Superior Incompleto,34,8,SP,6742.772056
+135,Operacao,Masculino,Superior Incompleto,44,16,RJ,6653.737564
+136,Operacao,Masculino,Mestrado,57,11,BH,6000.425865
+137,Marketing,Masculino,Superior Completo,50,14,SP,8598.997889
+138,Operacao,Feminino,Mestrado,66,8,BH,6525.290326
+139,Operacao,Masculino,Doutorado,48,15,BH,10093.01317
+140,RH,Feminino,Superior Incompleto,55,11,RJ,3256.602
+141,Operacao,Masculino,Superior Incompleto,60,9,BH,6007.683425
+142,RH,Masculino,Superior Incompleto,33,8,SP,2836.296
+143,Marketing,Masculino,Superior Completo,35,8,SP,4854.902551
+144,Marketing,Feminino,Doutorado,39,15,SP,9291.872965
+145,Administrativo,Masculino,Doutorado,71,8,SP,12912.36
+146,Marketing,Masculino,Superior Completo,31,9,SP,3633.403995
+147,Financeiro,Feminino,Superior Completo,45,16,BH,8438.425274
+148,Operacao,Feminino,Superior Incompleto,63,8,SP,5765.963642
+149,Administrativo,Feminino,Superior Incompleto,40,15,BH,2197.245441
+150,Operacao,Feminino,Superior Completo,35,8,RJ,6789.168124
+151,Marketing,Masculino,Mestrado,54,12,SP,6308.319011
+152,Operacao,Feminino,Superior Completo,52,13,SP,2191.691093
+153,Operacao,Masculino,Mestrado,69,7,RJ,6542.807106
+154,Operacao,Masculino,Superior Completo,31,6,SP,2546.724137
+155,Marketing,Masculino,Mestrado,50,14,BH,6634.351841
+156,Operacao,Feminino,Superior Incompleto,37,13,SP,6567.430475
+157,Administrativo,Masculino,Superior Completo,47,15,SP,2805.538098
+158,Operacao,Masculino,Superior Completo,59,10,RJ,4153.34676
+159,Operacao,Masculino,Mestrado,45,16,SP,6619.215774
+160,Financeiro,Masculino,Superior Completo,65,8,SP,3477.712603
+161,Administrativo,Masculino,Superior Completo,52,13,BH,2868.421593
+162,Operacao,Feminino,Superior Completo,59,10,BH,3569.394904
+163,Operacao,Feminino,Doutorado,36,8,SP,9006.873168
+164,Operacao,Feminino,Doutorado,69,7,BH,10187.43475
+165,Financeiro,Feminino,Mestrado,59,10,SP,6407.659805
+166,Administrativo,Masculino,Superior Incompleto,40,17,SP,2049.881869
+167,Operacao,Masculino,Superior Completo,68,7,SP,3486.048921
+168,Operacao,Masculino,Superior Completo,45,16,BH,1253.726734
+169,RH,Masculino,Superior Completo,62,9,SP,5490.214
+170,Operacao,Feminino,Superior Incompleto,29,5,SP,6087.519514
+171,Operacao,Masculino,Superior Completo,68,7,RJ,5070.610537
+172,Operacao,Masculino,Mestrado,59,10,BH,6199.326693
+173,RH,Masculino,Superior Incompleto,51,13,BH,2835.662
+174,Operacao,Feminino,Superior Completo,56,11,RJ,4843.809212
+175,Operacao,Masculino,Doutorado,61,28,SP,8513.534461
+176,Financeiro,Masculino,Superior Incompleto,53,12,RJ,1829.038381
+177,Operacao,Masculino,Superior Completo,47,15,SP,2979.663229
+178,Administrativo,Masculino,Mestrado,36,8,SP,6383.494489
+179,Operacao,Masculino,Superior Incompleto,48,14,RJ,6461.026655
+180,Operacao,Feminino,Superior Completo,38,12,RJ,4185.881643
+181,RH,Feminino,Superior Completo,59,10,RJ,7619.853
+182,Operacao,Feminino,Superior Completo,47,15,RJ,2129.316679
+183,Operacao,Feminino,Superior Incompleto,60,9,SP,6582.145294
+184,Operacao,Masculino,Doutorado,36,15,SP,10532.46317
+185,Administrativo,Masculino,Superior Completo,38,12,SP,3963.020803
+186,Administrativo,Feminino,Superior Incompleto,63,8,SP,2050.544148
+187,RH,Masculino,Superior Completo,62,9,SP,6533.614
+188,Operacao,Feminino,Mestrado,50,14,SP,6743.583192
+189,Administrativo,Feminino,Mestrado,52,13,SP,6501.946955
+190,Operacao,Masculino,Superior Completo,59,10,SP,1999.21
+191,Financeiro,Masculino,Mestrado,48,15,RJ,6092.850693
+192,Administrativo,Masculino,Superior Completo,47,15,SP,4934.32208
+193,Marketing,Masculino,Superior Completo,65,8,SP,6112.896421
+194,Administrativo,Masculino,Mestrado,62,9,RJ,6356.116477
+195,Operacao,Masculino,Superior Completo,47,15,SP,9636.184866
+196,Operacao,Masculino,Superior Completo,38,12,SP,11451.72232
+197,Administrativo,Feminino,Superior Incompleto,51,13,SP,2010.61386
+198,Operacao,Feminino,Superior Completo,56,11,SP,10033.90985
+199,Administrativo,Feminino,Mestrado,42,17,SP,6746.674646
+200,Marketing,Masculino,Mestrado,42,17,SP,7048.829808
+201,RH,Masculino,Superior Completo,47,15,SP,7415.134
+202,Operacao,Masculino,Superior Incompleto,37,13,SP,6228.841371
+203,Financeiro,Feminino,Superior Completo,65,8,RJ,11100.82517
+204,Financeiro,Feminino,Doutorado,48,15,SP,9266.224722
+205,Administrativo,Feminino,Superior Incompleto,51,13,SP,2016.920772
+206,Operacao,Masculino,Superior Completo,65,8,BH,1307.153449
+207,Operacao,Feminino,Mestrado,42,17,SP,6048.588646
+208,Marketing,Masculino,Superior Completo,56,11,BH,1294.761744
+209,Operacao,Feminino,Superior Completo,52,13,SP,6071.487387
+210,Financeiro,Feminino,Doutorado,32,9,SP,10529.11725
+211,Financeiro,Masculino,Superior Completo,45,16,SP,5303.388481
+212,Marketing,Masculino,Superior Completo,65,8,BH,3807.457452
+213,Administrativo,Masculino,Superior Completo,59,10,SP,8233.126819
+214,Operacao,Masculino,Superior Completo,47,15,SP,6150.399228
+215,Administrativo,Masculino,Superior Incompleto,63,8,BH,1949.219164
+216,Operacao,Feminino,Superior Incompleto,29,5,SP,6234.621298
+217,RH,Masculino,Superior Incompleto,60,9,SP,3242.999
+218,Operacao,Feminino,Superior Incompleto,48,14,SP,5877.921733
+219,RH,Masculino,Superior Completo,31,9,RJ,5490.824
+220,Financeiro,Masculino,Superior Incompleto,67,7,SP,2050.751277
+221,Operacao,Masculino,Superior Completo,56,11,SP,10922.881
+222,Administrativo,Masculino,Mestrado,66,8,SP,6730.521175
+223,Administrativo,Masculino,Superior Completo,41,17,BH,3700.222428
+224,Administrativo,Masculino,Superior Completo,68,7,BH,9786.361759
+226,Administrativo,Masculino,Superior Incompleto,48,14,SP,1973.010946
+227,Operacao,Feminino,Superior Incompleto,37,13,SP,5784.835491
+228,Operacao,Masculino,Superior Incompleto,63,8,SP,6455.689258
+229,Financeiro,Masculino,Superior Completo,31,9,SP,2683.191114
+230,Marketing,Masculino,Mestrado,45,16,BH,6468.109456
+231,Financeiro,Masculino,Superior Completo,31,9,BH,4932.87466
+232,RH,Feminino,Superior Incompleto,37,13,SP,3124.138
+233,Operacao,Masculino,Superior Completo,35,8,SP,3388.967632
+234,Operacao,Masculino,Superior Incompleto,53,12,SP,6290.48694
+235,Marketing,Masculino,Superior Completo,41,17,SP,5059.60284
+236,Operacao,Feminino,Superior Incompleto,57,10,BH,5999.159164
+237,Administrativo,Masculino,Superior Completo,52,13,SP,6913.804031
+238,Operacao,Feminino,Doutorado,66,8,BH,10881.02969
+239,Operacao,Feminino,Superior Incompleto,48,14,RJ,5736.565252
+240,Administrativo,Masculino,Superior Completo,35,8,RJ,2593.562325
+241,Administrativo,Masculino,Superior Completo,35,8,RJ,10260.30432
+242,Administrativo,Masculino,Superior Completo,56,11,SP,2198.395943
+243,Administrativo,Masculino,Mestrado,48,15,SP,6274.949067
+244,Administrativo,Masculino,Superior Completo,47,15,SP,3394.281793
+245,Financeiro,Masculino,Superior Incompleto,55,11,SP,2057.838403
+246,Administrativo,Masculino,Superior Completo,41,17,SP,11308.34028
+247,RH,Masculino,Superior Incompleto,63,8,RJ,3292.007
+248,Operacao,Masculino,Superior Incompleto,51,13,BH,5728.525219
+249,RH,Masculino,Superior Completo,52,13,SP,6821.073
+250,Administrativo,Masculino,Superior Incompleto,51,13,BH,2014.145982
+251,Financeiro,Masculino,Superior Completo,56,11,SP,10813.31032
+252,Financeiro,Feminino,Superior Incompleto,48,14,SP,2072.729276
+253,Marketing,Masculino,Superior Completo,62,9,SP,3010.705462
+254,Financeiro,Masculino,Superior Incompleto,40,15,RJ,2161.010497
+255,Operacao,Masculino,Superior Incompleto,46,15,RJ,6156.008267
+256,RH,Masculino,Superior Incompleto,67,3,RJ,3026.122
+257,Marketing,Feminino,Superior Incompleto,37,13,RJ,1987.307094
+258,Administrativo,Masculino,Mestrado,62,9,BH,6433.667625
+259,Operacao,Feminino,Superior Completo,54,12,SP,5975.945186
+260,Marketing,Masculino,Mestrado,36,8,SP,6833.540602
+261,Administrativo,Masculino,Superior Completo,47,15,SP,2490.476322
+262,Operacao,Feminino,Superior Incompleto,29,5,SP,5901.10896
+263,Operacao,Feminino,Superior Completo,54,12,SP,3883.892211
+264,Operacao,Masculino,Superior Incompleto,67,7,SP,5744.359033
+265,Operacao,Feminino,Superior Completo,50,14,SP,8851.316434
+266,RH,Masculino,Mestrado,32,9,SP,5951.154
+267,RH,Masculino,Superior Incompleto,40,17,SP,3166.653
+268,Operacao,Feminino,Superior Completo,31,9,SP,7202.368759
+269,Administrativo,Masculino,Mestrado,54,12,BH,6858.700628
+270,Financeiro,Masculino,Superior Completo,52,13,SP,7192.278274
+271,Administrativo,Feminino,Mestrado,54,12,SP,6249.11927
+272,Marketing,Masculino,Superior Completo,35,8,SP,6576.000472
+273,Operacao,Masculino,Superior Completo,56,11,SP,5878.483019
+274,RH,Masculino,Superior Completo,31,9,SP,6125.328
+275,RH,Masculino,Superior Incompleto,29,6,BH,3431.63
+276,Operacao,Feminino,Mestrado,36,8,SP,6950.995537
+277,Administrativo,Masculino,Superior Incompleto,57,10,BH,2103.369308
+278,Administrativo,Feminino,Doutorado,48,15,RJ,11952.6983
+279,RH,Feminino,Superior Completo,52,13,SP,6637.882
+280,Operacao,Masculino,Mestrado,45,16,SP,6419.941628
+281,Financeiro,Feminino,Superior Completo,31,9,BH,7474.221586
+282,Administrativo,Feminino,Superior Completo,45,16,SP,10925.13215
+283,Operacao,Feminino,Superior Incompleto,44,16,SP,5951.444267
+284,Administrativo,Masculino,Superior Incompleto,51,13,SP,2009.931313
+285,Operacao,Masculino,Mestrado,50,14,RJ,6495.163273
+286,Operacao,Masculino,Superior Completo,41,17,SP,1947.863486
+287,Administrativo,Masculino,Mestrado,62,9,SP,6806.319747
+288,Operacao,Masculino,Superior Completo,65,8,RJ,7821.427334
+289,Operacao,Feminino,Superior Completo,56,11,SP,3455.229282
+290,Financeiro,Feminino,Superior Completo,56,11,SP,4864.91336
+291,RH,Masculino,Mestrado,57,11,RJ,5254.573
+292,Operacao,Feminino,Superior Completo,31,9,SP,4676.772017
+293,Administrativo,Feminino,Superior Completo,56,11,RJ,2933.968653
+294,Financeiro,Feminino,Mestrado,48,15,SP,6951.011788
+295,Operacao,Masculino,Superior Completo,65,8,BH,2271.145693
+296,RH,Masculino,Superior Completo,54,12,BH,5379.333
+297,Administrativo,Masculino,Superior Completo,50,14,SP,3738.827733
+298,Financeiro,Feminino,Superior Completo,49,14,BH,1914.070798
+299,Operacao,Masculino,Superior Completo,41,17,RJ,3726.919906
+300,Operacao,Feminino,Superior Incompleto,29,5,SP,6210.467601
+301,RH,Feminino,Superior Completo,52,13,SP,7927.564
+302,Administrativo,Masculino,Superior Completo,35,8,RJ,1904.489889
+303,Operacao,Feminino,Superior Completo,31,9,RJ,7159.696766
+304,Financeiro,Feminino,Superior Completo,31,9,BH,3059.999333
+305,Financeiro,Masculino,Superior Completo,56,11,SP,8689.754563
+306,Operacao,Masculino,Mestrado,57,11,SP,6567.794264
+307,Operacao,Masculino,Superior Incompleto,55,11,RJ,5681.192595
+308,Marketing,Feminino,Superior Completo,41,17,SP,7101.779179
+309,Operacao,Masculino,Doutorado,56,8,SP,9585.66359
+310,Financeiro,Masculino,Doutorado,55,12,RJ,9708.577403
+311,Operacao,Feminino,Mestrado,59,10,BH,6571.410513
+312,Financeiro,Feminino,Mestrado,69,7,SP,6745.288205
+313,Marketing,Masculino,Superior Completo,68,7,SP,3927.386104
+314,Administrativo,Masculino,Superior Incompleto,43,16,SP,2013.261571
+315,Administrativo,Masculino,Mestrado,42,17,SP,6504.441026
+316,RH,Feminino,Superior Incompleto,57,10,BH,3205.488
+317,Administrativo,Masculino,Superior Completo,45,16,SP,11149.08784
+318,Administrativo,Feminino,Superior Completo,56,11,SP,8767.406422
+319,Operacao,Masculino,Doutorado,81,18,SP,11513.76214
+320,RH,Feminino,Superior Completo,31,9,SP,5876.036
+321,Administrativo,Masculino,Mestrado,52,13,SP,6567.409669
+322,Operacao,Masculino,Superior Completo,45,16,SP,5379.751041
+323,Administrativo,Masculino,Doutorado,55,12,RJ,9536.878416
+324,Administrativo,Feminino,Doutorado,69,7,BH,9723.771827
+325,RH,Feminino,Superior Completo,65,8,BH,5480.538
+326,Administrativo,Feminino,Superior Completo,59,10,SP,10409.45776
+327,Operacao,Feminino,Superior Incompleto,60,9,SP,6501.978905
+328,Operacao,Feminino,Superior Completo,68,7,BH,9403.075447
+329,Operacao,Masculino,Superior Completo,62,9,SP,7810.007101
+330,Marketing,Feminino,Superior Incompleto,63,8,SP,1897.554181
+331,Administrativo,Masculino,Doutorado,63,18,SP,14586.01
+332,Financeiro,Masculino,Superior Completo,35,8,SP,2502.625475
+333,Administrativo,Masculino,Superior Completo,68,7,RJ,9542.417396
+334,Financeiro,Feminino,Superior Incompleto,55,11,BH,1972.344511
+335,Operacao,Feminino,Superior Incompleto,46,15,BH,5639.800745
+336,Administrativo,Feminino,Mestrado,59,10,RJ,6481.306103
+337,Operacao,Masculino,Superior Incompleto,48,14,RJ,5939.467572
+338,Administrativo,Feminino,Superior Incompleto,40,17,SP,1945.358458
+339,Administrativo,Masculino,Superior Completo,45,16,SP,1991.346
+340,Operacao,Masculino,Mestrado,36,8,SP,6315.352306
+341,Financeiro,Feminino,Superior Incompleto,33,8,SP,2187.5921
+342,Operacao,Feminino,Mestrado,52,13,SP,6948.884822
+343,Administrativo,Masculino,Superior Incompleto,57,10,SP,2023.654514
+344,Financeiro,Feminino,Superior Completo,59,10,SP,3239.851644
+345,Administrativo,Masculino,Mestrado,42,17,SP,6083.327924
+346,Financeiro,Masculino,Superior Incompleto,57,10,SP,2047.723634
+347,Marketing,Masculino,Superior Incompleto,40,17,SP,1875.101962
+348,Operacao,Masculino,Superior Completo,54,12,SP,10908.24447
+349,Financeiro,Masculino,Doutorado,39,15,BH,9992.316837
+350,Operacao,Masculino,Superior Incompleto,37,12,RJ,6245.151999
+351,Administrativo,Feminino,Superior Completo,31,9,SP,11305.98254
+352,Operacao,Feminino,Superior Completo,59,10,SP,4120.999066
+353,Marketing,Masculino,Doutorado,65,9,SP,9509.300012
+354,Administrativo,Feminino,Superior Completo,35,8,BH,3300.690005
+355,Operacao,Masculino,Superior Incompleto,40,17,SP,5737.072942
+356,Operacao,Masculino,Superior Completo,56,11,SP,3991.079316
+357,Operacao,Masculino,Doutorado,45,16,BH,11885.89983
+358,Marketing,Masculino,Mestrado,45,16,SP,6321.791698
+359,Administrativo,Feminino,Superior Completo,61,9,BH,7388.057891
+360,Financeiro,Masculino,Superior Completo,51,13,SP,10894.77924
+361,RH,Masculino,Superior Incompleto,67,7,SP,3229.265
+362,Operacao,Feminino,Superior Incompleto,57,10,SP,6073.50311
+363,Marketing,Masculino,Superior Completo,44,16,SP,8601.773091
+364,Operacao,Masculino,Superior Completo,41,17,SP,7543.46851
+365,Operacao,Masculino,Doutorado,61,12,SP,9005.611394
+366,Administrativo,Masculino,Superior Incompleto,67,7,SP,2010.568467
+367,Financeiro,Feminino,Superior Completo,54,12,SP,9885.360268
+368,RH,Masculino,Superior Incompleto,60,9,RJ,2925.06
+369,Administrativo,Feminino,Superior Incompleto,57,10,RJ,1968.074907
+370,Administrativo,Masculino,Superior Completo,38,12,SP,6875.951429
+371,RH,Feminino,Doutorado,48,15,SP,8307.735
+372,Operacao,Masculino,Mestrado,36,8,BH,6738.846539
+373,Financeiro,Masculino,Superior Incompleto,40,15,RJ,2085.287108
+374,Marketing,Feminino,Superior Completo,31,9,SP,5483.281367
+375,RH,Masculino,Mestrado,59,10,RJ,5801.901
+376,Administrativo,Feminino,Doutorado,52,13,SP,16070.24
+377,Operacao,Masculino,Superior Completo,61,9,SP,2986.932121
+378,Operacao,Feminino,Superior Incompleto,29,6,RJ,5787.078952
+379,Financeiro,Masculino,Superior Incompleto,40,17,SP,1846.353416
+380,Operacao,Feminino,Superior Incompleto,63,8,SP,6616.397296
+381,Operacao,Feminino,Superior Completo,59,10,BH,1834.950798
+382,Operacao,Masculino,Superior Incompleto,51,13,SP,6324.387611
+383,Operacao,Masculino,Superior Completo,65,8,SP,2636.00244
+384,Financeiro,Feminino,Superior Completo,41,17,SP,10743.35779
+385,RH,Masculino,Superior Completo,38,12,BH,6790.492
+386,Administrativo,Masculino,Superior Completo,44,16,RJ,5043.711379
+387,Financeiro,Masculino,Mestrado,62,9,SP,6419.204705
+388,Operacao,Masculino,Superior Incompleto,67,7,RJ,6304.675997
+389,Financeiro,Masculino,Superior Incompleto,46,15,SP,1997.88944
+390,Operacao,Feminino,Superior Completo,35,8,SP,10714.04997
+391,Administrativo,Masculino,Superior Completo,44,16,SP,8753.229902
+392,Financeiro,Masculino,Mestrado,62,9,SP,6006.588575
+393,Administrativo,Masculino,Superior Completo,68,7,SP,3205.766984
+394,Administrativo,Masculino,Superior Completo,41,17,SP,8890.859732
+395,Operacao,Masculino,Superior Incompleto,48,14,BH,6582.993807
+396,Operacao,Masculino,Superior Completo,47,15,BH,9530.477043
+397,Operacao,Masculino,Superior Incompleto,33,8,SP,6066.214315
+398,Administrativo,Feminino,Superior Completo,59,10,SP,7461.144371
+399,Operacao,Masculino,Superior Completo,38,12,SP,7270.802414
+400,Financeiro,Feminino,Mestrado,62,9,BH,6457.459697
+401,Operacao,Feminino,Superior Completo,56,11,SP,9842.251833
+402,Financeiro,Masculino,Doutorado,81,7,SP,9993.918052
+403,Financeiro,Feminino,Superior Completo,44,16,SP,5475.83596
+404,Administrativo,Masculino,Superior Completo,65,8,SP,2842.067829
+405,Operacao,Masculino,Mestrado,66,8,SP,6170.573865
+406,RH,Masculino,Mestrado,50,14,SP,6985.573
+407,RH,Feminino,Superior Completo,68,7,RJ,7415.053
+408,Operacao,Feminino,Superior Completo,31,9,BH,2676.951651
+409,Financeiro,Feminino,Superior Completo,61,9,SP,4375.544871
+410,RH,Feminino,Superior Completo,59,10,SP,6561.871
+411,Operacao,Feminino,Superior Completo,56,11,BH,3861.775435
+412,Operacao,Masculino,Superior Completo,44,16,RJ,2220.472689
+413,Operacao,Masculino,Superior Incompleto,57,10,SP,6189.811963
+414,Administrativo,Feminino,Doutorado,45,16,SP,11849.9
+415,Operacao,Masculino,Superior Completo,44,16,RJ,2912.887686
+416,RH,Feminino,Superior Completo,49,14,BH,6309.405
+417,Marketing,Masculino,Superior Completo,56,11,SP,4331.599759
+418,Administrativo,Feminino,Superior Completo,38,12,BH,5861.626365
+419,Administrativo,Masculino,Superior Incompleto,51,13,BH,1973.06676
+420,RH,Feminino,Superior Completo,59,10,SP,6568.432
+422,Operacao,Masculino,Superior Completo,56,11,BH,7185.888431
+423,Administrativo,Feminino,Superior Completo,59,10,SP,3667.438287
+424,Administrativo,Feminino,Superior Incompleto,66,4,BH,2012.777137
+425,Administrativo,Masculino,Superior Completo,47,15,SP,3849.344796
+426,Operacao,Masculino,Superior Incompleto,60,9,RJ,6542.36536
+427,Marketing,Masculino,Superior Incompleto,66,7,SP,2028.287679
+428,RH,Masculino,Superior Completo,59,10,SP,5211.234
+429,Marketing,Feminino,Superior Completo,51,13,BH,1373.282813
+430,RH,Masculino,Superior Completo,38,12,BH,5477.12
+431,Operacao,Masculino,Superior Completo,41,17,RJ,1362.232033
+432,RH,Masculino,Superior Incompleto,46,15,BH,3141.092
+433,Administrativo,Masculino,Mestrado,39,15,BH,6884.26798
+434,Operacao,Feminino,Superior Completo,44,16,RJ,9691.048847
+435,Administrativo,Masculino,Superior Incompleto,29,5,SP,1849.201635
+436,Marketing,Masculino,Superior Incompleto,33,8,BH,1991.118108
+437,Operacao,Masculino,Superior Completo,47,15,SP,1996.136
+438,Administrativo,Feminino,Superior Incompleto,48,14,RJ,2088.615093
+439,Financeiro,Feminino,Superior Incompleto,48,14,SP,1888.528728
+440,Administrativo,Feminino,Mestrado,32,9,SP,6644.864197
+441,Administrativo,Feminino,Doutorado,39,15,SP,16106.52
+442,Financeiro,Masculino,Superior Completo,49,14,RJ,8939.099002
+443,Administrativo,Feminino,Mestrado,59,10,SP,6410.004939
+444,RH,Feminino,Superior Completo,54,12,SP,5660.234
+445,Operacao,Masculino,Superior Incompleto,66,7,RJ,6169.953006
+446,Administrativo,Masculino,Superior Completo,61,9,SP,1968.031
+447,Operacao,Feminino,Superior Completo,65,8,BH,4469.036888
+448,Administrativo,Feminino,Superior Incompleto,60,9,SP,2029.389133
+449,Marketing,Masculino,Superior Completo,51,13,RJ,10683.55216
+450,RH,Masculino,Superior Completo,61,9,RJ,7179.305
+451,Marketing,Feminino,Superior Completo,54,12,SP,2303.578142
+453,Administrativo,Masculino,Mestrado,52,13,SP,5917.374876
+454,Financeiro,Masculino,Superior Completo,41,17,SP,2712.563292
+455,Marketing,Masculino,Superior Completo,49,14,BH,11797.85578
+456,Administrativo,Feminino,Doutorado,59,10,SP,14820.26
+457,Marketing,Masculino,Superior Completo,41,17,BH,9704.690316
+458,Marketing,Masculino,Superior Completo,56,11,RJ,6727.628841
+459,Operacao,Masculino,Doutorado,45,10,SP,10687.95656
+460,RH,Masculino,Superior Completo,38,12,SP,5741.292
+461,Operacao,Masculino,Superior Completo,38,18,BH,10502.69601
+462,Operacao,Masculino,Superior Incompleto,40,17,BH,6570.685862
+463,Administrativo,Feminino,Superior Incompleto,55,11,RJ,2032.306665
+464,Administrativo,Masculino,Superior Completo,58,10,RJ,1953.973767
+465,RH,Masculino,Superior Completo,51,13,RJ,7300.533
+466,Financeiro,Feminino,Superior Completo,58,10,RJ,2996.462957
+467,Operacao,Masculino,Superior Completo,35,8,SP,6229.08622
+468,Administrativo,Feminino,Doutorado,59,10,SP,12672.38
+469,Operacao,Masculino,Superior Completo,44,16,BH,2677.481947
+470,Operacao,Feminino,Mestrado,45,16,SP,6557.286772
+471,Operacao,Masculino,Superior Incompleto,57,10,SP,5965.717874
+472,Operacao,Feminino,Superior Incompleto,43,16,SP,6705.329215
+473,Administrativo,Masculino,Superior Completo,30,6,SP,3799.330805
+474,Marketing,Masculino,Superior Completo,41,17,SP,1954.676
+475,Administrativo,Masculino,Mestrado,47,15,SP,6623.640386
+476,Operacao,Masculino,Mestrado,69,7,RJ,6653.48972
+477,Operacao,Masculino,Superior Completo,51,13,SP,10772.04197
+478,RH,Feminino,Superior Incompleto,48,14,SP,3812.883
+479,Operacao,Masculino,Superior Completo,49,14,SP,10487.65083
+480,Administrativo,Feminino,Superior Incompleto,66,7,SP,1978.832936
+481,Operacao,Masculino,Superior Completo,51,13,SP,8371.049384
+482,Administrativo,Feminino,Superior Completo,38,12,SP,11816.35268
+483,Administrativo,Feminino,Superior Incompleto,43,16,SP,1951.770089
+484,Marketing,Feminino,Superior Incompleto,66,7,RJ,1817.231932
+485,Administrativo,Feminino,Superior Completo,56,11,RJ,11899.25607
+486,Operacao,Masculino,Superior Completo,51,13,SP,4779.01193
+487,Marketing,Feminino,Superior Completo,51,13,SP,6833.7942
+488,Operacao,Masculino,Superior Incompleto,40,17,SP,6357.08243
+489,Operacao,Feminino,Superior Incompleto,37,13,SP,6556.594433
+490,Financeiro,Masculino,Superior Completo,49,14,RJ,7505.660127
+491,Operacao,Feminino,Superior Completo,58,10,RJ,2866.072666
+492,Operacao,Masculino,Superior Incompleto,60,9,SP,6672.964703
+493,Financeiro,Masculino,Superior Completo,65,8,BH,2390.177207
+494,Administrativo,Masculino,Mestrado,42,17,SP,6696.651619
+495,RH,Masculino,Superior Incompleto,51,13,SP,2810.377
+496,Operacao,Masculino,Superior Completo,30,6,RJ,2928.600083
+497,Administrativo,Masculino,Superior Incompleto,57,10,SP,1986.697669
+498,Administrativo,Masculino,Doutorado,59,15,SP,17306.15
+499,RH,Feminino,Doutorado,48,15,SP,9465.429
+500,Operacao,Masculino,Superior Completo,49,14,BH,8786.072868
+501,Operacao,Masculino,Superior Completo,61,9,BH,5872.71492
+502,Financeiro,Feminino,Superior Completo,65,8,SP,5351.41914
+503,RH,Feminino,Superior Incompleto,63,8,BH,3080.658
+504,Administrativo,Masculino,Superior Incompleto,51,13,BH,2122.735999
+505,Administrativo,Masculino,Superior Completo,47,15,SP,8714.851159
+506,Administrativo,Masculino,Superior Incompleto,43,16,SP,1838.34048
+507,Operacao,Masculino,Superior Incompleto,55,11,RJ,6429.521908
+508,Administrativo,Masculino,Superior Completo,35,8,SP,8433.765881
+509,Marketing,Masculino,Superior Completo,61,9,SP,3573.180425
+510,Operacao,Masculino,Superior Incompleto,66,7,SP,6625.663561
+511,Operacao,Feminino,Superior Completo,65,8,BH,6530.332713
+512,Operacao,Masculino,Mestrado,62,9,RJ,6437.111581
+513,Operacao,Feminino,Superior Completo,30,6,SP,8593.927942
+514,Marketing,Feminino,Mestrado,36,8,SP,6332.648628
+515,RH,Feminino,Mestrado,69,7,SP,6676.935
+516,Administrativo,Feminino,Superior Incompleto,29,5,BH,1994.523233
+517,Financeiro,Masculino,Superior Completo,68,7,RJ,3918.269128
+518,Operacao,Feminino,Doutorado,57,11,SP,9215.274356
+519,RH,Masculino,Superior Incompleto,40,15,BH,3155.402
+520,Administrativo,Feminino,Doutorado,62,9,SP,10942.48
+521,Administrativo,Masculino,Superior Completo,41,17,BH,6964.555637
+522,Administrativo,Masculino,Superior Completo,51,13,SP,6819.185362
+523,RH,Masculino,Superior Incompleto,33,8,SP,3972.766
+524,Administrativo,Feminino,Superior Completo,44,16,RJ,5296.616539
+525,Operacao,Feminino,Mestrado,69,7,SP,5797.101924
+526,Administrativo,Masculino,Superior Completo,49,14,SP,8732.78327
+527,Operacao,Feminino,Superior Incompleto,43,16,BH,6361.652444
+528,Marketing,Masculino,Superior Completo,49,14,SP,9663.874531
+529,Operacao,Feminino,Superior Completo,38,12,SP,5552.665988
+530,Operacao,Masculino,Superior Completo,51,13,SP,3603.82816
+531,Administrativo,Feminino,Superior Incompleto,40,17,SP,1954.412485
+532,Operacao,Feminino,Superior Completo,47,15,SP,6319.397097
+533,Administrativo,Feminino,Superior Completo,64,8,SP,3455.563278
+534,Administrativo,Feminino,Superior Incompleto,37,13,BH,1943.807016
+535,RH,Masculino,Superior Incompleto,39,15,SP,2891.193
+536,Financeiro,Masculino,Superior Incompleto,48,14,RJ,2034.211245
+537,RH,Feminino,Superior Completo,61,9,SP,5292.545
+538,Administrativo,Feminino,Superior Completo,68,7,SP,5210.076939
+539,Marketing,Masculino,Superior Completo,64,8,BH,1491.025577
+540,Operacao,Feminino,Superior Incompleto,43,16,SP,5900.37295
+541,Operacao,Feminino,Superior Incompleto,57,10,SP,6177.903564
+542,Operacao,Feminino,Superior Completo,54,12,SP,7228.083181
+543,Financeiro,Masculino,Superior Completo,30,6,BH,2485.55302
+544,Operacao,Masculino,Superior Incompleto,51,13,BH,5881.891124
+545,Marketing,Masculino,Superior Incompleto,43,16,RJ,2058.910084
+546,Operacao,Feminino,Superior Completo,68,7,SP,4555.700413
+547,RH,Masculino,Doutorado,52,13,BH,8196.645
+548,Operacao,Feminino,Superior Completo,41,17,BH,4827.026855
+549,Operacao,Feminino,Superior Incompleto,37,13,SP,6323.896243
+550,Operacao,Feminino,Superior Completo,64,8,SP,6461.772118
+551,Operacao,Masculino,Superior Completo,54,12,SP,1943.93062
+552,Marketing,Masculino,Doutorado,77,20,SP,11201.66833
+553,Operacao,Masculino,Superior Incompleto,60,9,BH,5943.418509
+554,RH,Feminino,Superior Incompleto,48,14,SP,3809.348
+555,Financeiro,Feminino,Superior Incompleto,39,15,SP,1894.798985
+556,Administrativo,Masculino,Superior Incompleto,39,15,SP,2072.24069
+557,Operacao,Feminino,Superior Completo,51,13,SP,8880.046523
+558,RH,Masculino,Mestrado,42,17,BH,6225.251
+559,RH,Masculino,Superior Completo,49,14,SP,6329.936
+560,Operacao,Feminino,Superior Incompleto,48,14,RJ,6452.001578
+561,Financeiro,Feminino,Mestrado,50,14,SP,6366.764704
+562,Administrativo,Feminino,Superior Completo,35,8,RJ,3141.373398
+563,Administrativo,Masculino,Mestrado,52,13,RJ,6827.838827
+564,Operacao,Masculino,Superior Completo,38,12,SP,4950.308251
+565,Marketing,Masculino,Superior Completo,38,12,BH,2327.50383
+566,Operacao,Masculino,Doutorado,32,15,SP,9161.823133
+567,Operacao,Feminino,Superior Completo,44,16,SP,6772.59147
+568,RH,Masculino,Superior Completo,44,16,SP,6173.073
+569,Marketing,Masculino,Mestrado,39,15,SP,6145.297074
+570,Marketing,Masculino,Mestrado,32,9,RJ,6638.416175
+571,Administrativo,Masculino,Superior Completo,56,11,SP,7431.016563
+572,Financeiro,Masculino,Superior Completo,44,16,SP,2820.898402
+573,RH,Masculino,Mestrado,62,9,SP,6308.617
+574,Marketing,Masculino,Superior Completo,44,16,SP,3907.90637
+575,Operacao,Feminino,Mestrado,42,17,SP,6424.111002
+576,Administrativo,Feminino,Superior Completo,54,12,BH,3521.629574
+577,Operacao,Masculino,Superior Incompleto,43,16,SP,6580.838457
+578,RH,Masculino,Doutorado,62,9,BH,6393.743
+579,RH,Feminino,Mestrado,62,9,RJ,6060.793
+580,RH,Masculino,Superior Completo,35,8,SP,7524.198
+581,Marketing,Masculino,Superior Completo,41,17,BH,7165.095551
+582,Operacao,Feminino,Superior Completo,64,8,SP,9789.235963
+583,Operacao,Feminino,Superior Completo,54,12,SP,6502.512595
+584,Administrativo,Feminino,Superior Incompleto,46,15,SP,1832.761344
+585,Administrativo,Feminino,Doutorado,69,7,SP,13365.91
+586,Operacao,Masculino,Superior Completo,47,15,RJ,4472.32309
+587,Administrativo,Masculino,Superior Completo,44,16,BH,10962.92316
+588,Administrativo,Masculino,Superior Incompleto,57,10,SP,2148.113824
+589,Administrativo,Masculino,Mestrado,54,12,BH,6697.020193
+590,Operacao,Masculino,Superior Incompleto,37,13,SP,6223.922752
+591,Financeiro,Feminino,Superior Incompleto,51,13,SP,2150.910258
+592,Operacao,Masculino,Doutorado,42,9,SP,10039.13463
+593,Administrativo,Feminino,Superior Completo,51,13,SP,4001.548101
+594,Marketing,Masculino,Superior Incompleto,33,8,RJ,1928.294436
+595,Administrativo,Masculino,Superior Completo,68,7,SP,3095.789855
+596,Operacao,Masculino,Superior Completo,35,8,SP,2836.979596
+597,Administrativo,Feminino,Mestrado,52,13,SP,6782.632336
+598,Operacao,Masculino,Superior Incompleto,29,5,SP,6781.095058
+599,Marketing,Masculino,Mestrado,39,15,RJ,6676.528614
+600,RH,Masculino,Mestrado,69,7,RJ,6077.663
+601,Financeiro,Masculino,Superior Completo,61,9,SP,8310.147639
+602,Operacao,Masculino,Doutorado,74,19,SP,8718.884666
+603,Operacao,Masculino,Doutorado,47,14,SP,10560.1912
+604,Operacao,Feminino,Superior Incompleto,48,14,SP,6206.432167
+605,Operacao,Masculino,Superior Incompleto,33,8,SP,6157.67165
+606,Administrativo,Feminino,Superior Completo,64,8,RJ,9161.718055
+607,Administrativo,Masculino,Superior Incompleto,57,10,BH,2012.209759
+608,Financeiro,Feminino,Superior Completo,68,7,SP,2422.122702
+610,Operacao,Masculino,Superior Incompleto,60,9,RJ,6409.88983
+611,Marketing,Feminino,Superior Completo,30,6,SP,2754.065516
+612,Administrativo,Masculino,Superior Incompleto,33,8,SP,1975.790877
+613,Administrativo,Masculino,Superior Completo,58,10,SP,6596.598302
+614,Administrativo,Masculino,Mestrado,42,17,BH,6991.61557
+615,Administrativo,Feminino,Superior Completo,64,8,SP,6893.092907
+616,Marketing,Masculino,Superior Completo,44,16,SP,5190.744528
+617,Operacao,Feminino,Mestrado,32,9,RJ,6567.235402
+618,Administrativo,Masculino,Superior Incompleto,57,10,RJ,1985.736606
+619,Operacao,Masculino,Superior Completo,61,9,RJ,6162.651902
+620,Financeiro,Masculino,Superior Incompleto,60,9,SP,1977.860578
+621,Operacao,Masculino,Superior Completo,41,17,SP,6122.099378
+622,Operacao,Masculino,Superior Completo,44,16,SP,5913.757986
+623,Operacao,Masculino,Doutorado,61,17,SP,9425.339899
+624,Administrativo,Feminino,Superior Completo,51,13,SP,5662.675002
+625,Administrativo,Masculino,Superior Incompleto,60,9,SP,2160.483248
+626,RH,Feminino,Superior Completo,53,12,SP,7226.907
+627,Operacao,Masculino,Superior Completo,64,8,SP,10976.45659
+628,Operacao,Masculino,Superior Completo,58,10,SP,6075.975706
+629,RH,Masculino,Mestrado,69,7,RJ,5475.386
+630,Marketing,Masculino,Superior Completo,56,11,RJ,6588.75366
+631,Operacao,Masculino,Superior Completo,64,8,SP,8543.027474
+632,Administrativo,Feminino,Mestrado,59,10,RJ,5691.614997
+633,RH,Feminino,Superior Incompleto,33,8,RJ,3447.969
+634,RH,Feminino,Superior Completo,38,12,BH,6243.591
+635,Financeiro,Masculino,Superior Completo,51,13,SP,2929.861638
+636,RH,Feminino,Superior Completo,51,13,SP,6662.092
+637,Operacao,Masculino,Doutorado,32,8,RJ,9032.680162
+638,Marketing,Masculino,Mestrado,52,13,BH,6132.816032
+640,Operacao,Masculino,Superior Incompleto,29,6,RJ,5650.114566
+641,Administrativo,Masculino,Superior Completo,35,8,SP,10081.78929
+642,Administrativo,Feminino,Superior Completo,64,8,RJ,10881.34308
+643,Administrativo,Masculino,Mestrado,39,15,SP,6817.843516
+644,Operacao,Masculino,Superior Completo,64,8,RJ,3098.169529
+645,Administrativo,Masculino,Mestrado,32,9,SP,6760.732547
+646,Operacao,Feminino,Superior Completo,58,10,RJ,4933.971149
+647,Administrativo,Feminino,Mestrado,47,15,SP,6466.683115
+648,Administrativo,Masculino,Superior Completo,61,9,SP,7752.116926
+649,RH,Masculino,Mestrado,42,17,BH,8269.86
+650,Administrativo,Feminino,Superior Completo,68,7,SP,4543.593876
+651,Administrativo,Masculino,Superior Completo,58,10,SP,6729.038817
+652,Administrativo,Masculino,Doutorado,54,12,BH,12121.29393
+653,Administrativo,Masculino,Superior Completo,53,12,BH,5434.692321
+654,Administrativo,Feminino,Superior Incompleto,66,7,RJ,2176.85792
+655,Administrativo,Masculino,Superior Completo,49,14,RJ,8784.486499
+656,Financeiro,Masculino,Superior Completo,44,16,RJ,7915.733747
+657,RH,Masculino,Superior Completo,35,8,BH,5715.527
+658,Administrativo,Feminino,Mestrado,39,15,BH,6528.419041
+659,Operacao,Masculino,Mestrado,62,9,SP,6580.291117
+660,Operacao,Masculino,Superior Incompleto,29,5,SP,6094.219215
+661,Administrativo,Feminino,Superior Completo,51,13,SP,10961.8637
+662,RH,Masculino,Superior Completo,64,8,RJ,7373.703
+663,Operacao,Masculino,Superior Completo,30,6,RJ,1373.360542
+664,Administrativo,Feminino,Superior Incompleto,43,16,SP,1980.577
+665,Financeiro,Masculino,Superior Completo,51,13,SP,1982.502041
+666,Operacao,Feminino,Superior Completo,35,8,SP,6391.254181
+667,Operacao,Masculino,Mestrado,69,7,SP,6865.049415
+668,Administrativo,Masculino,Superior Completo,64,8,SP,8331.012471
+669,Operacao,Feminino,Superior Completo,35,8,BH,4344.582821
+670,Financeiro,Masculino,Superior Completo,56,11,SP,2550.127955
+671,Administrativo,Masculino,Superior Completo,53,12,BH,3814.384819
+672,Administrativo,Masculino,Mestrado,62,9,SP,6295.03759
+673,RH,Masculino,Mestrado,42,17,RJ,5436.573
+674,Marketing,Masculino,Superior Incompleto,48,14,BH,2074.948821
+675,Administrativo,Masculino,Superior Completo,41,17,SP,1967.098
+676,Operacao,Feminino,Superior Incompleto,63,8,SP,6101.173724
+677,Operacao,Masculino,Superior Completo,53,12,SP,8189.295185
+678,Operacao,Masculino,Superior Completo,41,17,SP,1999.411
+679,Administrativo,Masculino,Mestrado,57,11,SP,6590.842993
+680,Administrativo,Masculino,Superior Completo,58,10,RJ,5900.766247
+681,Marketing,Feminino,Superior Completo,61,9,RJ,7669.40872
+682,Operacao,Masculino,Mestrado,57,11,SP,6354.047271
+683,RH,Masculino,Superior Completo,68,7,RJ,6370.408
+684,Financeiro,Masculino,Superior Incompleto,51,13,RJ,2058.992366
+685,Financeiro,Masculino,Superior Completo,30,6,RJ,2211.697607
+686,Operacao,Masculino,Superior Completo,64,8,BH,1292.339494
+687,Operacao,Masculino,Superior Completo,41,17,SP,1997.821
+688,Operacao,Feminino,Superior Completo,47,15,RJ,10257.14708
+689,Operacao,Feminino,Superior Completo,35,8,SP,10427.27125
+690,Administrativo,Feminino,Superior Incompleto,66,7,SP,1993.914
+691,Marketing,Masculino,Superior Completo,44,16,RJ,3953.539329
+692,RH,Masculino,Superior Incompleto,53,12,BH,3533.034
+693,RH,Feminino,Superior Incompleto,55,11,RJ,2790.871
+694,RH,Masculino,Superior Completo,58,10,SP,8802.473
+695,Marketing,Feminino,Superior Completo,47,15,SP,9316.273572
+696,Operacao,Masculino,Superior Completo,38,12,SP,3591.038624
+697,RH,Feminino,Superior Completo,44,16,SP,5908.178
+698,Administrativo,Feminino,Superior Completo,58,10,SP,7642.995531
+699,Financeiro,Feminino,Superior Incompleto,53,12,SP,1822.719418
+700,Operacao,Feminino,Superior Incompleto,55,11,SP,6683.996083
+701,Administrativo,Masculino,Superior Incompleto,43,16,RJ,1908.083445
+702,Administrativo,Feminino,Superior Completo,35,8,SP,2351.41018
+703,Administrativo,Masculino,Superior Completo,49,14,SP,11520.83132
+704,Administrativo,Masculino,Superior Completo,51,13,SP,5651.852445
+705,Financeiro,Masculino,Superior Incompleto,51,13,RJ,2023.745816
+706,Administrativo,Feminino,Doutorado,50,14,SP,18097.53
+707,Administrativo,Masculino,Superior Completo,58,10,SP,5798.233672
+708,Operacao,Masculino,Superior Incompleto,57,10,SP,6015.44248
+709,Operacao,Masculino,Superior Completo,49,14,SP,11905.52915
+710,Operacao,Feminino,Superior Completo,61,9,SP,2760.426221
+711,Administrativo,Feminino,Mestrado,42,17,SP,6323.187655
+712,Operacao,Masculino,Superior Completo,53,12,RJ,9251.341314
+713,Operacao,Masculino,Mestrado,39,15,BH,6166.192155
+714,Operacao,Masculino,Mestrado,65,8,RJ,6511.475015
+715,Administrativo,Masculino,Superior Completo,53,12,SP,1973.556
+716,Administrativo,Feminino,Superior Incompleto,53,12,SP,2061.108522
+717,Marketing,Masculino,Superior Completo,61,9,BH,8911.912996
+718,Marketing,Feminino,Superior Completo,53,12,RJ,1755.909192
+719,Operacao,Feminino,Superior Incompleto,66,7,BH,6293.441376
+720,Administrativo,Masculino,Mestrado,47,15,BH,6561.506734
+721,Marketing,Masculino,Superior Completo,35,8,RJ,7322.061748
+722,Administrativo,Masculino,Mestrado,57,11,BH,6723.373368
+723,Operacao,Masculino,Superior Completo,64,8,SP,3878.731626
+724,Operacao,Masculino,Mestrado,32,9,BH,6458.317998
+725,RH,Feminino,Superior Completo,47,15,SP,5502.97
+726,Administrativo,Feminino,Superior Incompleto,53,12,SP,1929.915095
+727,Administrativo,Masculino,Superior Completo,47,15,SP,7094.543544
+728,Operacao,Feminino,Superior Completo,64,8,RJ,6246.798839
+729,Financeiro,Masculino,Superior Completo,30,6,SP,5875.333365
+730,Administrativo,Feminino,Superior Incompleto,63,8,BH,1859.713658
+731,Administrativo,Feminino,Superior Incompleto,55,11,SP,1844.358908
+732,Operacao,Feminino,Superior Completo,68,7,BH,11654.11173
+733,Administrativo,Feminino,Superior Completo,47,15,SP,5036.106634
+734,Operacao,Masculino,Superior Completo,41,17,SP,7645.583082
+735,Marketing,Masculino,Superior Completo,38,12,SP,7274.997947
+736,Operacao,Masculino,Superior Incompleto,43,16,BH,6092.595735
+737,Administrativo,Masculino,Superior Incompleto,60,9,SP,2000.773619
+738,Operacao,Feminino,Superior Completo,30,6,SP,5101.378888
+739,Marketing,Masculino,Superior Incompleto,60,9,BH,1957.031981
+740,Operacao,Feminino,Superior Completo,58,10,SP,1960.816
+741,Marketing,Masculino,Superior Incompleto,46,15,SP,2008.655333
+742,Operacao,Masculino,Superior Completo,41,17,SP,5461.857278
+743,Administrativo,Masculino,Superior Completo,44,16,SP,3974.66296
+744,Administrativo,Masculino,Superior Completo,51,13,SP,6302.437251
+745,Administrativo,Masculino,Mestrado,39,15,SP,6585.599563
+746,Marketing,Masculino,Superior Completo,30,6,SP,4210.415848
+747,Administrativo,Feminino,Superior Completo,68,7,BH,2552.002012
+748,RH,Feminino,Superior Completo,51,13,BH,5355.624
+749,Operacao,Masculino,Superior Incompleto,46,15,BH,6635.792856
+750,Operacao,Masculino,Superior Incompleto,37,12,BH,5645.343775
+751,Financeiro,Feminino,Superior Incompleto,53,12,RJ,1941.072846
+752,Administrativo,Feminino,Superior Incompleto,51,13,RJ,2021.490028
+753,Operacao,Feminino,Doutorado,59,10,RJ,12406.65206
+754,RH,Feminino,Superior Completo,47,15,SP,7173.782
+755,Administrativo,Masculino,Doutorado,50,10,SP,17148.12
+756,Marketing,Feminino,Superior Completo,61,9,SP,3118.605329
+757,Administrativo,Masculino,Mestrado,59,10,SP,6415.300197
+758,Operacao,Masculino,Doutorado,45,16,RJ,8789.810517
+759,Administrativo,Masculino,Superior Incompleto,66,7,SP,1971.732
+760,Administrativo,Masculino,Superior Completo,38,12,SP,7567.922213
+761,Financeiro,Feminino,Superior Incompleto,48,14,SP,2000.20782
+762,Operacao,Feminino,Superior Completo,68,7,SP,7010.271103
+763,Operacao,Masculino,Mestrado,32,9,SP,6193.385681
+764,Financeiro,Feminino,Superior Completo,58,10,RJ,7798.505906
+765,RH,Feminino,Superior Incompleto,29,5,SP,3713.982
+766,Marketing,Feminino,Mestrado,42,17,SP,6795.727433
+767,Financeiro,Masculino,Mestrado,65,8,SP,6274.290276
+768,Operacao,Feminino,Superior Completo,30,6,BH,4308.433789
+769,Marketing,Masculino,Mestrado,39,15,SP,6299.805177
+770,Administrativo,Feminino,Superior Completo,35,8,RJ,10973.24309
+771,Operacao,Feminino,Mestrado,59,10,SP,6819.205151
+772,Operacao,Masculino,Superior Completo,68,7,SP,1999.426
+773,Operacao,Masculino,Superior Completo,51,13,SP,4243.684567
+774,Operacao,Feminino,Superior Completo,51,13,SP,5323.199955
+775,Operacao,Masculino,Superior Completo,49,14,SP,3060.978985
+776,Administrativo,Feminino,Mestrado,50,14,BH,6396.761771
+777,Operacao,Feminino,Superior Incompleto,60,9,BH,6436.234672
+778,Marketing,Feminino,Superior Incompleto,46,15,SP,2027.313277
+779,Administrativo,Masculino,Superior Incompleto,51,13,RJ,1960.590817
+780,Operacao,Masculino,Superior Completo,61,9,SP,11910.84982
+781,Operacao,Feminino,Superior Completo,68,7,BH,4876.961988
+782,Operacao,Masculino,Superior Completo,35,8,SP,6557.760481
+783,Operacao,Masculino,Superior Incompleto,66,7,RJ,5854.884307
+784,Financeiro,Masculino,Superior Completo,64,8,BH,11344.36545
+785,Operacao,Feminino,Superior Completo,64,8,RJ,1450.741828
+786,Operacao,Masculino,Superior Completo,41,17,SP,4956.652258
+787,RH,Masculino,Superior Completo,47,15,SP,7468.174
+788,RH,Feminino,Superior Completo,38,12,SP,7492.176
+789,Operacao,Masculino,Superior Completo,41,17,BH,5631.188249
+790,Financeiro,Masculino,Mestrado,42,17,BH,5841.445574
+791,Operacao,Feminino,Superior Completo,51,13,RJ,4132.596589
+792,Marketing,Masculino,Superior Incompleto,37,12,SP,1961.558
+793,Operacao,Feminino,Superior Incompleto,50,13,RJ,5980.931705
+794,Marketing,Feminino,Superior Incompleto,33,8,SP,2094.971824
+795,Administrativo,Masculino,Superior Completo,58,10,RJ,3212.53136
+796,Financeiro,Feminino,Superior Incompleto,50,13,SP,2022.895043
+797,Operacao,Masculino,Superior Completo,35,8,BH,4030.336572
+798,Operacao,Masculino,Superior Completo,41,17,SP,3584.608625
+799,Marketing,Masculino,Superior Incompleto,37,13,SP,2296.63213
+800,Operacao,Feminino,Superior Incompleto,63,8,SP,6380.971467
+801,Administrativo,Masculino,Superior Incompleto,53,12,SP,1940.166122
+802,Administrativo,Masculino,Superior Completo,44,16,SP,10077.93144
+803,Administrativo,Masculino,Superior Incompleto,39,15,BH,2037.756049
+804,Financeiro,Masculino,Mestrado,47,15,RJ,6309.846039
+805,Marketing,Feminino,Superior Incompleto,63,8,SP,1863.297908
+806,Operacao,Masculino,Mestrado,52,13,BH,6737.850209
+807,Marketing,Feminino,Superior Completo,64,8,RJ,7781.209932
+808,Operacao,Feminino,Mestrado,57,11,RJ,6190.083029
+809,Operacao,Masculino,Superior Completo,68,7,RJ,4144.960104
+810,RH,Masculino,Superior Incompleto,43,16,BH,3958.626
+811,Administrativo,Feminino,Superior Incompleto,46,15,RJ,2137.474322
+812,Administrativo,Masculino,Mestrado,45,16,SP,7136.732397
+813,RH,Masculino,Superior Incompleto,63,8,SP,3387.046
+814,RH,Masculino,Doutorado,69,13,SP,6788.042
+815,Financeiro,Masculino,Doutorado,80,19,SP,8306.439926
+816,Administrativo,Masculino,Superior Incompleto,50,13,BH,1969.477865
+817,RH,Feminino,Superior Incompleto,39,15,BH,2744.818
+818,Operacao,Masculino,Superior Incompleto,37,12,RJ,6444.463344
+819,Financeiro,Feminino,Mestrado,47,15,SP,6136.065223
+820,Operacao,Feminino,Superior Incompleto,66,7,RJ,5725.832228
+821,RH,Feminino,Superior Incompleto,53,12,SP,3888.439
+822,Financeiro,Masculino,Superior Completo,61,9,BH,9929.654761
+823,Financeiro,Masculino,Superior Incompleto,50,13,RJ,1872.883431
+824,Financeiro,Masculino,Superior Incompleto,50,13,SP,2192.001686
+825,Operacao,Feminino,Superior Completo,51,13,RJ,11315.21696
+826,Marketing,Masculino,Superior Completo,67,7,SP,4599.283079
+827,Administrativo,Masculino,Superior Incompleto,66,7,SP,2111.137669
+828,Administrativo,Feminino,Superior Completo,47,15,SP,5821.946839
+829,Operacao,Masculino,Doutorado,45,12,SP,8681.370899
+830,Operacao,Feminino,Mestrado,45,16,RJ,6277.745475
+831,Administrativo,Masculino,Doutorado,54,12,BH,9833.941838
+832,Operacao,Feminino,Mestrado,52,13,SP,5803.011831
+833,Operacao,Feminino,Superior Completo,67,7,SP,10802.37969
+834,Administrativo,Masculino,Superior Incompleto,33,8,RJ,1982.721244
+835,RH,Feminino,Superior Completo,35,8,SP,5388.927
+836,Financeiro,Masculino,Superior Completo,35,8,RJ,9676.74466
+837,Marketing,Masculino,Superior Completo,58,10,SP,3604.474999
+838,Financeiro,Masculino,Superior Incompleto,50,13,SP,1978.494269
+839,Operacao,Masculino,Doutorado,61,7,SP,11219.66874
+840,Marketing,Feminino,Superior Completo,49,14,BH,1584.101233
+841,Operacao,Masculino,Mestrado,36,8,SP,6525.534656
+842,RH,Feminino,Superior Completo,53,12,RJ,5837.513
+843,Marketing,Feminino,Superior Incompleto,29,5,RJ,2124.495988
+844,RH,Masculino,Superior Incompleto,60,9,SP,3365.543
+845,Operacao,Masculino,Superior Completo,58,10,RJ,1921.202798
+846,Operacao,Masculino,Superior Completo,35,8,BH,4428.377449
+848,Administrativo,Masculino,Mestrado,42,17,RJ,6489.405859
+849,Operacao,Masculino,Superior Incompleto,63,8,SP,6417.597061
+850,Marketing,Masculino,Superior Completo,64,8,RJ,10122.78584
+851,Marketing,Feminino,Superior Incompleto,60,9,RJ,1978.567476
+852,Marketing,Masculino,Superior Completo,38,12,BH,4987.267537
+853,Operacao,Masculino,Superior Completo,41,17,RJ,7894.595404
+854,Financeiro,Masculino,Superior Completo,49,14,BH,1682.532796
+855,Administrativo,Masculino,Mestrado,32,9,BH,6251.917439
+856,Financeiro,Masculino,Superior Completo,35,8,RJ,4297.057828
+857,Operacao,Masculino,Superior Incompleto,46,15,RJ,6682.379129
+858,Marketing,Feminino,Superior Incompleto,33,8,SP,2112.102466
+859,Financeiro,Feminino,Superior Incompleto,37,13,SP,1968.021592
+860,Operacao,Masculino,Superior Completo,35,8,SP,10742.66288
+861,Financeiro,Feminino,Superior Completo,58,10,SP,2568.80553
+862,Administrativo,Feminino,Mestrado,42,17,SP,6140.298075
+863,Administrativo,Feminino,Superior Incompleto,33,8,SP,1993.452714
+864,RH,Feminino,Superior Incompleto,45,15,BH,3845.023
+865,Administrativo,Feminino,Superior Completo,49,14,SP,1970.353
+866,Operacao,Feminino,Superior Incompleto,57,10,SP,6559.487734
+867,RH,Masculino,Superior Completo,41,17,RJ,6344.634
+868,Administrativo,Masculino,Superior Completo,49,14,SP,3950.044513
+869,RH,Masculino,Superior Completo,64,8,BH,6468.896
+870,Administrativo,Feminino,Superior Incompleto,43,16,RJ,1837.202866
+871,Administrativo,Feminino,Superior Completo,58,10,BH,8132.024051
+872,RH,Masculino,Mestrado,57,11,BH,6339.911
+873,Operacao,Feminino,Doutorado,48,15,SP,9668.11626
+874,Marketing,Feminino,Superior Completo,58,10,SP,7245.088546
+875,Operacao,Masculino,Mestrado,59,10,SP,6380.43795
+876,Operacao,Feminino,Superior Completo,64,8,SP,11549.93089
+877,Financeiro,Masculino,Superior Completo,49,14,BH,7640.078053
+878,Operacao,Feminino,Mestrado,59,10,RJ,6362.395498
+879,Administrativo,Masculino,Superior Incompleto,55,11,SP,2143.381355
+880,Operacao,Masculino,Mestrado,62,9,BH,6502.16851
+881,Marketing,Masculino,Mestrado,36,8,RJ,6793.966481
+882,Administrativo,Feminino,Superior Completo,67,7,SP,9246.443804
+883,Operacao,Feminino,Superior Completo,51,13,RJ,5201.169368
+884,Marketing,Masculino,Superior Completo,47,15,SP,11409.29811
+885,Administrativo,Masculino,Superior Completo,41,17,SP,3919.263872
+886,Administrativo,Feminino,Mestrado,54,12,RJ,6713.98408
+887,Marketing,Feminino,Superior Incompleto,66,7,RJ,2056.673791
+888,Financeiro,Masculino,Superior Completo,41,17,RJ,8884.190235
+889,Operacao,Masculino,Mestrado,39,15,RJ,6331.111781
+890,Operacao,Feminino,Superior Completo,41,17,BH,2707.229316
+891,Financeiro,Masculino,Superior Completo,47,15,SP,4264.558424
+892,Marketing,Masculino,Superior Incompleto,39,15,SP,2146.514811
+893,Financeiro,Masculino,Mestrado,32,9,SP,6624.282696
+894,Operacao,Masculino,Superior Completo,49,14,BH,6616.687289
+895,Operacao,Masculino,Superior Incompleto,63,8,SP,6599.779563
+896,Marketing,Masculino,Mestrado,36,8,SP,6480.260408
+897,Financeiro,Feminino,Superior Completo,53,12,BH,2716.915883
+898,Administrativo,Masculino,Superior Completo,58,10,SP,3099.381368
+899,Administrativo,Masculino,Superior Completo,47,15,RJ,7215.132228
+900,Operacao,Masculino,Superior Completo,53,12,BH,2027.974897
+901,Operacao,Feminino,Superior Completo,58,10,SP,6864.732724
+902,Operacao,Feminino,Superior Completo,38,12,SP,3587.451392
+903,Operacao,Masculino,Superior Incompleto,37,13,SP,5639.765206
+904,RH,Feminino,Superior Incompleto,55,11,SP,3684.727
+905,Operacao,Masculino,Superior Incompleto,33,8,RJ,5998.733659
+906,Operacao,Feminino,Superior Completo,49,14,RJ,5379.204215
+907,Administrativo,Feminino,Superior Incompleto,39,15,SP,1851.844604
+908,Administrativo,Masculino,Mestrado,50,14,BH,6391.323868
+909,Financeiro,Masculino,Mestrado,39,15,SP,6379.482462
+910,Administrativo,Masculino,Superior Completo,41,17,SP,2815.885805
+911,Financeiro,Masculino,Superior Completo,64,8,RJ,5596.108922
+912,Administrativo,Masculino,Superior Completo,49,14,SP,3152.437444
+913,Administrativo,Feminino,Superior Completo,53,12,RJ,11218.93246
+914,Operacao,Masculino,Mestrado,36,8,RJ,6578.861688
+915,Marketing,Feminino,Superior Completo,61,9,SP,1993.5
+916,Administrativo,Masculino,Superior Incompleto,63,8,RJ,1924.309322
+917,Operacao,Masculino,Mestrado,32,9,BH,6447.050982
+918,Financeiro,Feminino,Superior Completo,67,7,SP,7635.571784
+919,Operacao,Feminino,Superior Completo,53,12,SP,1993.928
+920,Administrativo,Feminino,Superior Completo,67,7,RJ,5918.685256
+921,Operacao,Masculino,Superior Completo,38,12,RJ,2045.523686
+922,RH,Masculino,Superior Completo,34,8,SP,5511.746
+923,Marketing,Masculino,Superior Completo,61,9,SP,3353.915454
+924,Administrativo,Feminino,Superior Completo,41,17,SP,5654.423515
+925,Operacao,Feminino,Superior Completo,46,15,RJ,3258.741897
+926,Administrativo,Feminino,Superior Incompleto,33,8,BH,1942.492615
+927,Operacao,Masculino,Mestrado,56,11,BH,6321.191128
+928,Operacao,Masculino,Superior Completo,37,12,BH,6504.215115
+929,Marketing,Feminino,Mestrado,62,9,BH,5703.090735
+930,Marketing,Feminino,Superior Completo,49,14,RJ,6896.864775
+931,Financeiro,Masculino,Superior Incompleto,48,14,SP,1891.253576
+932,Marketing,Masculino,Superior Completo,51,13,BH,7023.721196
+933,Marketing,Masculino,Superior Completo,30,6,SP,1960.139
+934,RH,Masculino,Superior Incompleto,55,11,SP,2886.404
+935,Administrativo,Masculino,Superior Completo,61,9,BH,3352.309525
+936,Operacao,Masculino,Superior Completo,30,6,BH,4830.546167
+937,Operacao,Masculino,Superior Completo,46,15,BH,4340.573794
+938,RH,Feminino,Superior Completo,61,9,SP,8382.517
+939,Administrativo,Masculino,Superior Incompleto,43,16,SP,1936.979947
+940,Marketing,Feminino,Doutorado,48,15,SP,9378.567833
+941,RH,Feminino,Superior Incompleto,50,13,SP,2977.531
+942,Operacao,Masculino,Mestrado,47,15,SP,5865.998563
+944,Marketing,Masculino,Superior Completo,67,7,SP,7672.063138
+945,Administrativo,Masculino,Superior Completo,37,13,RJ,2587.600362
+946,Administrativo,Feminino,Superior Completo,51,13,SP,6963.951858
+947,RH,Masculino,Superior Incompleto,55,11,SP,3530.611
+948,Operacao,Feminino,Mestrado,32,9,RJ,6634.603645
+949,RH,Masculino,Doutorado,57,11,SP,7215.795
+950,Operacao,Feminino,Superior Completo,67,5,BH,11287.26118
+951,Administrativo,Masculino,Superior Completo,30,6,RJ,3644.287189
+952,Administrativo,Masculino,Superior Completo,64,8,BH,2555.786857
+953,Operacao,Masculino,Superior Incompleto,37,13,SP,6331.217088
+954,Marketing,Feminino,Mestrado,62,9,RJ,6142.107001
+955,Administrativo,Feminino,Superior Completo,61,9,SP,1956.438
+956,Administrativo,Masculino,Mestrado,52,13,SP,7109.422447
+957,Operacao,Feminino,Doutorado,32,8,RJ,11038.30428
+958,Operacao,Masculino,Superior Completo,67,7,BH,7169.157281
+959,Administrativo,Feminino,Superior Completo,49,14,SP,1953.555
+960,RH,Feminino,Superior Completo,61,9,SP,7587.546
+961,Operacao,Masculino,Superior Completo,41,17,SP,2465.065694
+962,Operacao,Feminino,Superior Incompleto,45,15,BH,5696.188492
+963,RH,Masculino,Mestrado,52,13,SP,5710.488
+964,RH,Feminino,Superior Incompleto,50,13,BH,3686.762
+965,RH,Masculino,Superior Incompleto,43,16,BH,3731.894
+966,Marketing,Masculino,Superior Completo,41,17,SP,11398.33818
+967,Administrativo,Masculino,Superior Completo,56,11,BH,3826.535059
+968,RH,Feminino,Superior Incompleto,45,15,BH,3082.073
+969,RH,Feminino,Superior Incompleto,48,14,RJ,3130.9
+970,RH,Feminino,Superior Completo,61,9,SP,6253.64
+971,Financeiro,Masculino,Superior Completo,58,10,SP,4347.482104
+972,Operacao,Feminino,Superior Completo,58,10,RJ,7968.079552
+973,Financeiro,Masculino,Mestrado,62,9,SP,6652.090195
+974,Administrativo,Masculino,Superior Completo,46,15,BH,3234.291122
+975,Financeiro,Masculino,Mestrado,45,16,RJ,6366.822588
+976,Financeiro,Masculino,Superior Completo,67,7,SP,7178.897108
+977,Marketing,Masculino,Mestrado,56,11,BH,6568.383525
+978,Administrativo,Masculino,Mestrado,36,8,SP,5662.689279
+979,Administrativo,Masculino,Mestrado,62,9,SP,6316.709593
+980,Operacao,Masculino,Superior Completo,56,11,BH,9349.756231
+981,Administrativo,Masculino,Doutorado,64,14,SP,10613.15
+982,RH,Masculino,Superior Incompleto,43,16,SP,3285.718
+983,Financeiro,Feminino,Superior Incompleto,33,8,RJ,2084.902434
+984,Administrativo,Masculino,Superior Completo,37,13,SP,5257.82398
+985,RH,Masculino,Superior Incompleto,39,15,SP,3963.33
+986,Administrativo,Feminino,Superior Completo,41,17,BH,6245.15379
+987,Operacao,Masculino,Superior Completo,46,15,SP,11093.54184
+988,Financeiro,Masculino,Superior Completo,40,17,SP,1998.964
+989,Administrativo,Masculino,Mestrado,69,7,RJ,6382.748081
+990,Financeiro,Feminino,Superior Completo,53,12,SP,9348.715926
+991,Operacao,Feminino,Superior Completo,49,14,SP,4129.951233
+992,Operacao,Feminino,Superior Completo,30,6,SP,6934.894809
+993,Administrativo,Masculino,Doutorado,67,17,SP,12657.25
+994,Marketing,Feminino,Superior Completo,64,8,SP,4825.848522
+995,Administrativo,Feminino,Doutorado,36,8,SP,17945.62
+996,Operacao,Masculino,Superior Completo,34,8,RJ,2079.293305
+997,Operacao,Masculino,Superior Incompleto,50,13,SP,5909.64548
+998,Operacao,Feminino,Superior Incompleto,55,11,RJ,6612.00243
+999,RH,Feminino,Superior Completo,34,8,SP,5991.454
+1000,Operacao,Feminino,Superior Incompleto,29,6,RJ,5860.36478
+1001,Marketing,Masculino,Superior Completo,67,7,RJ,4011.269508
+1002,Marketing,Masculino,Superior Completo,51,13,SP,2264.276422
+1003,Operacao,Masculino,Superior Incompleto,55,11,SP,6471.003644
+1004,Operacao,Masculino,Superior Incompleto,39,15,BH,6561.90905
+1005,Financeiro,Masculino,Superior Incompleto,43,16,RJ,2071.165641
+1006,Operacao,Feminino,Superior Incompleto,55,11,SP,6125.282518
+1007,Marketing,Masculino,Superior Incompleto,37,13,SP,2023.144955
+1008,Operacao,Feminino,Superior Completo,64,8,BH,7601.813541
+1009,Administrativo,Masculino,Superior Completo,53,12,SP,4148.968153
+1010,Operacao,Feminino,Superior Completo,44,16,BH,1534.367916
+1011,Operacao,Masculino,Superior Completo,34,8,SP,7336.332847
+1012,Marketing,Masculino,Superior Completo,64,8,RJ,2621.87402
+1013,Financeiro,Feminino,Superior Incompleto,43,16,RJ,1875.842538
+1014,RH,Masculino,Superior Completo,46,15,SP,5534.151
+1015,Operacao,Feminino,Mestrado,59,10,BH,6675.034532
+1016,RH,Feminino,Superior Completo,58,10,RJ,6678.23
+1017,Operacao,Masculino,Superior Completo,46,15,RJ,7981.853952
+1018,Administrativo,Masculino,Superior Completo,64,8,RJ,9351.474913
+1019,Operacao,Masculino,Superior Completo,34,8,SP,2561.421759
+1020,RH,Masculino,Superior Completo,64,8,SP,5326.916
+1021,Administrativo,Masculino,Superior Completo,58,10,SP,7917.12267
+1022,RH,Feminino,Superior Incompleto,60,9,SP,3053.708
+1023,RH,Feminino,Superior Completo,30,6,SP,6484.519
+1024,Administrativo,Masculino,Superior Incompleto,43,16,BH,1812.824022
+1025,Financeiro,Feminino,Superior Incompleto,45,15,BH,2071.353319
+1026,RH,Masculino,Superior Completo,40,17,SP,5438.433
+1027,Administrativo,Feminino,Superior Completo,30,6,BH,2565.398392
+1028,RH,Feminino,Superior Completo,67,7,SP,5674.18
+1029,Operacao,Masculino,Superior Completo,37,12,RJ,6452.831148
+1030,Financeiro,Masculino,Mestrado,32,9,RJ,6472.403419
+1031,Marketing,Masculino,Superior Completo,56,11,SP,1969.262
+1032,Operacao,Masculino,Superior Completo,58,10,SP,2040.04147
+1033,RH,Masculino,Superior Completo,64,8,RJ,7363.461
+1034,Operacao,Masculino,Superior Completo,37,13,SP,4876.516113
+1035,Operacao,Masculino,Superior Completo,30,6,SP,4384.983964
+1036,Financeiro,Masculino,Superior Completo,64,8,BH,3940.653702
+1037,Operacao,Masculino,Superior Completo,53,12,SP,9499.115766
+1038,RH,Masculino,Doutorado,61,15,SP,8107.865
+1039,RH,Masculino,Superior Completo,67,7,SP,6594.915
+1040,Administrativo,Masculino,Superior Completo,30,6,SP,6995.16866
+1041,Administrativo,Feminino,Superior Completo,46,15,SP,5938.875016
+1043,Marketing,Feminino,Mestrado,65,8,SP,6295.170596
+1044,Administrativo,Masculino,Superior Completo,61,9,BH,4708.988489
+1045,Administrativo,Feminino,Superior Completo,56,11,SP,8186.098642
+1046,Administrativo,Masculino,Superior Completo,58,10,SP,9674.243463
+1047,Marketing,Feminino,Superior Incompleto,53,12,SP,2017.22156
+1048,RH,Masculino,Mestrado,45,16,RJ,6369.788
+1049,Operacao,Masculino,Mestrado,52,13,SP,6590.816317
+1050,Administrativo,Masculino,Superior Incompleto,36,13,SP,2110.225621
+1051,Administrativo,Masculino,Superior Incompleto,60,9,SP,1945.575821
+1052,Marketing,Feminino,Superior Incompleto,33,8,BH,1961.98577
+1053,RH,Masculino,Superior Completo,51,13,SP,7478.833
+1054,Operacao,Feminino,Superior Completo,44,16,BH,5040.712263
+1055,Administrativo,Masculino,Superior Incompleto,53,12,RJ,2030.825354
+1056,Administrativo,Feminino,Superior Completo,44,16,RJ,10552.70807
+1057,Administrativo,Feminino,Superior Completo,46,15,RJ,2910.566818
+1058,Administrativo,Masculino,Superior Incompleto,28,5,SP,1949.70015
+1059,Financeiro,Feminino,Superior Completo,49,14,RJ,10632.57586
+1060,Operacao,Masculino,Superior Incompleto,28,5,RJ,6033.738083
+1061,RH,Feminino,Superior Incompleto,60,9,SP,3405.72
+1062,Administrativo,Feminino,Superior Completo,49,14,RJ,3300.226844
+1063,Operacao,Masculino,Superior Incompleto,33,8,SP,6000.81881
+1064,RH,Feminino,Superior Completo,51,13,SP,6404.223
+1065,Operacao,Masculino,Mestrado,42,17,SP,6307.68627
+1066,Financeiro,Feminino,Superior Completo,61,9,SP,9761.614991
+1067,Administrativo,Masculino,Superior Completo,37,13,SP,7249.733018
+1068,Financeiro,Masculino,Superior Incompleto,55,11,SP,1926.389106
+1069,Marketing,Masculino,Superior Incompleto,60,9,SP,2022.894023
+1070,Administrativo,Feminino,Superior Incompleto,57,10,RJ,1872.736017
+1071,Operacao,Masculino,Superior Completo,44,16,SP,11617.50921
+1072,Operacao,Masculino,Mestrado,31,9,SP,6983.295511
+1073,Operacao,Feminino,Superior Completo,64,8,BH,4798.978051
+1074,Marketing,Masculino,Superior Completo,67,7,SP,6343.66117
+1075,Administrativo,Masculino,Superior Completo,53,12,SP,7892.678082
+1076,Operacao,Masculino,Doutorado,66,8,RJ,10754.77245
+1077,Marketing,Masculino,Superior Incompleto,57,10,SP,1935.486605
+1078,Operacao,Masculino,Superior Completo,44,16,SP,10699.67234
+1079,Operacao,Masculino,Superior Completo,58,10,SP,8757.745489
+1080,Administrativo,Masculino,Superior Completo,58,10,SP,9050.509533
+1081,Marketing,Masculino,Doutorado,52,13,RJ,7172.41864
+1082,Financeiro,Masculino,Mestrado,38,12,SP,6721.316318
+1083,Financeiro,Feminino,Superior Completo,58,10,SP,3349.665739
+1084,Administrativo,Masculino,Superior Incompleto,45,15,RJ,2151.745312
+1085,Marketing,Masculino,Superior Completo,30,6,SP,8309.94624
+1086,Operacao,Feminino,Mestrado,45,16,BH,6332.309212
+1087,Administrativo,Masculino,Superior Incompleto,43,16,SP,2049.445737
+1088,RH,Masculino,Superior Completo,64,8,SP,5293.165
+1089,Administrativo,Feminino,Superior Incompleto,50,13,RJ,2113.544078
+1090,Operacao,Masculino,Mestrado,65,8,SP,6380.627965
+1091,Operacao,Masculino,Superior Incompleto,48,14,SP,6639.376112
+1092,Operacao,Masculino,Superior Incompleto,60,9,RJ,6193.784237
+1094,Operacao,Feminino,Mestrado,35,8,SP,7075.084627
+1095,RH,Feminino,Superior Incompleto,66,7,SP,2903.58
+1096,RH,Masculino,Superior Incompleto,57,10,SP,3670.041
+1097,Operacao,Feminino,Mestrado,45,16,SP,6494.560882
+1098,Financeiro,Feminino,Superior Incompleto,63,8,SP,2144.433841
+1099,Operacao,Masculino,Superior Completo,30,6,RJ,1647.262077
+1100,Operacao,Feminino,Superior Completo,40,17,RJ,11363.42866
+1101,Operacao,Masculino,Mestrado,68,7,RJ,6849.752906
+1102,Financeiro,Feminino,Superior Completo,49,14,RJ,10630.70636
+1103,Operacao,Masculino,Superior Incompleto,39,15,BH,6449.602116
+1104,Administrativo,Masculino,Superior Incompleto,45,15,SP,1847.301884
+1105,Financeiro,Masculino,Superior Completo,53,12,BH,9661.079261
+1106,Operacao,Feminino,Superior Completo,46,15,SP,9405.561554
+1107,Administrativo,Feminino,Doutorado,32,9,SP,14321.3
+1108,Operacao,Masculino,Superior Completo,30,6,BH,5853.430988
+1109,Operacao,Feminino,Superior Completo,51,13,SP,3142.943299
+1110,Operacao,Masculino,Superior Completo,34,8,BH,5975.74376
+1111,Administrativo,Masculino,Superior Incompleto,43,16,SP,2131.899297
+1112,RH,Masculino,Superior Completo,56,11,RJ,5890.599
+1113,Operacao,Masculino,Superior Completo,30,6,BH,11468.83996
+1114,Administrativo,Feminino,Superior Completo,51,13,SP,4903.978284
+1115,RH,Masculino,Superior Incompleto,60,9,SP,3943.056
+1116,Financeiro,Masculino,Superior Completo,46,15,BH,7203.719745
+1117,Financeiro,Masculino,Superior Completo,61,9,RJ,2044.191574
+1118,Marketing,Feminino,Superior Completo,67,7,RJ,6159.051091
+1119,Operacao,Feminino,Superior Incompleto,55,11,RJ,6712.757766
+1120,Administrativo,Masculino,Mestrado,52,13,BH,6704.711713
+1121,Administrativo,Feminino,Mestrado,42,17,BH,6450.925712
+1122,Administrativo,Masculino,Superior Completo,64,8,SP,8674.899895
+1124,Financeiro,Masculino,Superior Incompleto,48,14,SP,1949.742878
+1125,Operacao,Feminino,Superior Completo,56,11,SP,5325.087242
+1126,Administrativo,Masculino,Mestrado,56,11,SP,6287.719575
+1127,RH,Masculino,Superior Incompleto,55,11,RJ,3447.298
+1128,Administrativo,Feminino,Superior Completo,67,7,SP,4982.413892
+1129,Operacao,Feminino,Superior Completo,61,9,RJ,8921.25935
+1130,Operacao,Feminino,Superior Incompleto,62,8,RJ,6704.380005
+1131,Marketing,Masculino,Mestrado,38,12,SP,6831.625537
+1132,Administrativo,Feminino,Superior Completo,49,14,BH,9872.943314
+1133,Administrativo,Masculino,Superior Incompleto,62,8,RJ,2029.096301
+1134,Operacao,Feminino,Superior Completo,44,16,SP,3612.059531
+1135,Operacao,Masculino,Superior Completo,64,8,SP,9458.243577
+1136,Administrativo,Feminino,Superior Completo,67,7,SP,2014.206993
+1137,Operacao,Masculino,Superior Incompleto,62,8,SP,6468.757391
+1138,Operacao,Masculino,Superior Incompleto,52,12,RJ,6266.805494
+1139,Administrativo,Masculino,Superior Completo,49,14,SP,1993.244
+1140,Operacao,Masculino,Mestrado,65,8,SP,6671.155108
+1141,Operacao,Masculino,Doutorado,57,11,BH,9418.986238
+1142,Operacao,Feminino,Superior Completo,34,8,SP,11080.03279
+1143,Marketing,Feminino,Superior Completo,30,6,RJ,1873.122832
+1144,Financeiro,Masculino,Superior Completo,53,12,SP,1992.465
+1145,Marketing,Masculino,Superior Completo,63,8,SP,2580.047537
+1146,Administrativo,Feminino,Superior Completo,44,16,SP,6657.848049
+1147,Marketing,Masculino,Doutorado,52,19,SP,10546.97274
+1149,Operacao,Masculino,Mestrado,50,14,SP,6903.107916
+1150,Marketing,Feminino,Superior Incompleto,55,11,RJ,2007.865052
+1151,Administrativo,Masculino,Mestrado,68,7,SP,6310.787215
+1152,Marketing,Feminino,Superior Completo,63,8,BH,3084.519478
+1153,Operacao,Masculino,Superior Incompleto,28,5,SP,5994.539029
+1154,Financeiro,Masculino,Superior Completo,40,17,BH,11837.96937
+1155,Financeiro,Masculino,Superior Completo,61,9,SP,7946.727808
+1156,Administrativo,Masculino,Doutorado,37,10,SP,16895.05
+1157,Administrativo,Feminino,Superior Completo,30,6,SP,3002.080043
+1158,Administrativo,Masculino,Superior Completo,56,11,SP,1985.178
+1159,Operacao,Masculino,Superior Incompleto,50,13,SP,6391.538335
+1160,Financeiro,Feminino,Superior Completo,58,10,SP,3114.42383
+1161,Marketing,Feminino,Superior Completo,63,8,BH,9083.95558
+1162,Operacao,Feminino,Superior Completo,49,14,SP,6978.919557
+1163,Administrativo,Masculino,Mestrado,54,12,BH,6556.589183
+1164,Operacao,Feminino,Superior Completo,51,13,SP,11404.3315
+1165,Administrativo,Masculino,Superior Completo,53,12,SP,9696.64886
+1166,Financeiro,Feminino,Superior Incompleto,50,13,RJ,2159.48539
+1167,Operacao,Masculino,Superior Completo,53,12,SP,3127.511551
+1168,Marketing,Masculino,Superior Completo,49,14,SP,9389.779231
+1169,Financeiro,Feminino,Superior Completo,61,9,RJ,2063.306983
+1170,Operacao,Masculino,Mestrado,38,12,RJ,6170.494788
+1171,Operacao,Masculino,Superior Completo,46,15,BH,2414.066995
+1172,RH,Masculino,Superior Completo,37,12,RJ,8380.938
+1173,Marketing,Feminino,Superior Completo,61,9,BH,6161.890527
+1174,RH,Masculino,Doutorado,47,14,SP,6018.444
+1175,Operacao,Masculino,Mestrado,62,9,SP,6258.469585
+1176,Administrativo,Masculino,Superior Completo,46,15,SP,9574.243382
+1177,Operacao,Feminino,Superior Completo,40,17,SP,7578.671665
+1178,Marketing,Masculino,Superior Completo,30,6,BH,2191.736929
+1179,Financeiro,Feminino,Mestrado,59,10,RJ,6403.763858
+1180,Marketing,Masculino,Superior Completo,34,8,BH,4616.216634
+1181,RH,Feminino,Mestrado,68,7,SP,8991.566
+1182,Financeiro,Feminino,Superior Incompleto,39,15,SP,2003.498125
+1183,Administrativo,Feminino,Superior Incompleto,48,14,BH,2086.570392
+1184,Marketing,Masculino,Doutorado,62,9,BH,11317.96485
+1185,Operacao,Masculino,Doutorado,32,8,BH,9202.815213
+1186,Administrativo,Feminino,Mestrado,62,9,SP,6796.648288
+1187,Operacao,Masculino,Superior Completo,34,8,SP,9243.596818
+1188,Operacao,Masculino,Mestrado,50,14,SP,6395.325282
+1189,Administrativo,Feminino,Mestrado,62,9,BH,6790.837195
+1190,Financeiro,Feminino,Superior Completo,40,17,SP,5004.756611
+1191,Operacao,Masculino,Superior Completo,40,17,RJ,3556.17272
+1192,RH,Masculino,Superior Completo,61,9,BH,5326.902
+1193,Marketing,Masculino,Superior Completo,55,11,SP,7864.920125
+1194,Administrativo,Masculino,Superior Completo,29,6,RJ,3780.148029
+1195,RH,Masculino,Superior Incompleto,66,7,SP,3930.607
+1196,Administrativo,Feminino,Superior Completo,29,5,SP,5204.456175
+1197,Administrativo,Masculino,Superior Incompleto,66,7,SP,1943.022917
+1198,Operacao,Feminino,Superior Incompleto,28,5,SP,6755.877208
+1199,Administrativo,Feminino,Superior Completo,37,13,SP,9263.807756
+1200,Marketing,Feminino,Mestrado,38,12,BH,6369.992586
+1201,RH,Masculino,Superior Completo,55,11,SP,6815.948
+1202,Financeiro,Feminino,Superior Completo,61,9,SP,2656.955319
+1203,Operacao,Masculino,Superior Incompleto,28,5,BH,5976.840854
+1204,Marketing,Masculino,Mestrado,47,15,BH,7050.261448
+1205,Operacao,Feminino,Mestrado,52,13,BH,6648.634471
+1206,Administrativo,Masculino,Superior Completo,63,8,SP,4565.352538
+1207,RH,Feminino,Superior Completo,67,7,SP,7272.812
+1208,Administrativo,Masculino,Superior Completo,55,11,SP,1991.836
+1209,Operacao,Feminino,Doutorado,36,8,SP,10724.90205
+1210,Financeiro,Feminino,Superior Completo,40,17,SP,1958.652
+1211,Operacao,Masculino,Doutorado,43,13,SP,9469.206064
+1212,Administrativo,Feminino,Superior Incompleto,33,8,SP,2166.097793
+1213,RH,Masculino,Superior Incompleto,45,15,BH,3433.429
+1214,RH,Masculino,Mestrado,45,16,RJ,6651.238
+1215,Marketing,Feminino,Superior Incompleto,45,15,RJ,1976.313737
+1216,Operacao,Masculino,Superior Incompleto,43,16,BH,5776.568925
+1217,Operacao,Masculino,Superior Incompleto,33,8,SP,6581.405952
+1218,Financeiro,Feminino,Superior Completo,58,10,SP,3225.506914
+1219,Operacao,Feminino,Doutorado,39,15,SP,10727.2894
+1220,Administrativo,Feminino,Superior Completo,53,12,SP,4659.425479
+1221,Marketing,Masculino,Superior Incompleto,48,14,SP,1957.945216
+1222,RH,Feminino,Superior Completo,34,8,RJ,5623.384
+1223,Operacao,Masculino,Superior Completo,29,5,SP,7499.218877
+1224,Financeiro,Feminino,Superior Completo,34,8,SP,10567.36727
+1225,Administrativo,Feminino,Mestrado,35,8,SP,6361.51136
+1226,Financeiro,Masculino,Mestrado,42,17,SP,7076.420008
+1227,Financeiro,Masculino,Superior Completo,44,16,RJ,1831.617734
+1228,RH,Masculino,Mestrado,47,15,BH,6211.282
+1229,Operacao,Feminino,Superior Incompleto,57,10,SP,6631.782617
+1230,Operacao,Masculino,Superior Incompleto,43,16,BH,5710.764194
+1231,Operacao,Feminino,Superior Incompleto,36,13,SP,6045.423688
+1232,Operacao,Masculino,Superior Completo,44,16,SP,4978.137529
+1234,Marketing,Feminino,Superior Completo,44,16,BH,10319.52521
+1235,Operacao,Feminino,Superior Completo,61,9,BH,1886.420449
+1236,Marketing,Masculino,Superior Incompleto,52,12,BH,2019.426495
+1237,Operacao,Masculino,Superior Completo,61,9,RJ,4228.652648
+1238,Operacao,Masculino,Mestrado,56,11,SP,6364.979613
+1240,RH,Masculino,Doutorado,36,12,SP,7669.288
+1241,Administrativo,Feminino,Superior Completo,49,14,BH,10438.85763
+1242,Marketing,Feminino,Superior Completo,34,8,RJ,3234.215028
+1243,Operacao,Masculino,Superior Completo,46,15,SP,9024.403632
+1244,RH,Masculino,Superior Completo,59,19,SP,6992.935
+1245,Financeiro,Feminino,Mestrado,68,7,SP,6750.656119
+1246,Marketing,Masculino,Superior Completo,58,10,SP,5661.46861
+1247,Operacao,Feminino,Superior Completo,34,8,SP,3549.099292
+1248,Operacao,Masculino,Mestrado,54,12,SP,7043.919414
+1249,RH,Masculino,Superior Completo,29,5,SP,6382.33
+1250,Administrativo,Masculino,Superior Completo,29,5,SP,3678.761134
+1251,Administrativo,Masculino,Superior Completo,46,15,SP,4343.332633
+1252,RH,Masculino,Superior Incompleto,43,16,SP,3424.68
+1253,RH,Feminino,Superior Completo,46,15,RJ,8122.408
+1254,Marketing,Masculino,Superior Completo,67,7,BH,8278.630442
+1255,Operacao,Feminino,Doutorado,54,12,BH,10198.22493
+1256,Financeiro,Masculino,Superior Incompleto,28,5,SP,1960.276614
+1257,Marketing,Feminino,Superior Incompleto,55,11,RJ,2042.151363
+1258,Marketing,Feminino,Superior Incompleto,28,5,RJ,2133.127716
+1259,Marketing,Feminino,Superior Completo,61,9,SP,5903.409567
+1260,Operacao,Feminino,Superior Completo,53,12,BH,1822.213461
+1261,Financeiro,Masculino,Superior Completo,63,8,SP,4122.155177
+1262,Administrativo,Feminino,Superior Completo,58,10,SP,2538.11341
+1263,Operacao,Masculino,Superior Completo,44,16,SP,4606.919431
+1264,Financeiro,Feminino,Superior Incompleto,60,9,SP,1990.716377
+1265,Administrativo,Feminino,Superior Completo,61,9,RJ,6922.518692
+1266,Financeiro,Masculino,Superior Incompleto,39,15,SP,2004.070499
+1267,Administrativo,Feminino,Doutorado,32,9,SP,17578.02
+1268,Operacao,Masculino,Superior Completo,46,15,SP,8477.592473
+1269,Operacao,Masculino,Superior Incompleto,33,8,SP,5819.868478
+1270,Operacao,Masculino,Superior Completo,29,6,RJ,4312.205265
+1271,Operacao,Feminino,Superior Completo,51,13,SP,2232.511832
+1272,Operacao,Feminino,Superior Completo,29,5,SP,2511.738617
+1273,Marketing,Masculino,Superior Completo,61,9,BH,3171.578094
+1274,Marketing,Masculino,Superior Completo,29,6,RJ,10823.28046
+1275,RH,Masculino,Superior Completo,58,10,SP,5829.31
+1276,Marketing,Masculino,Doutorado,45,16,RJ,11571.47909
+1277,Financeiro,Masculino,Superior Completo,63,8,SP,8233.746214
+1279,Operacao,Feminino,Superior Completo,55,11,SP,4894.817874
+1280,RH,Masculino,Mestrado,52,13,RJ,8414.703
+1281,Operacao,Masculino,Doutorado,34,12,SP,10243.87141
+1282,RH,Masculino,Superior Incompleto,36,13,RJ,3331.118
+1283,Marketing,Masculino,Superior Incompleto,55,11,SP,1991.796843
+1284,Administrativo,Feminino,Superior Completo,34,8,SP,6359.912805
+1285,Administrativo,Masculino,Superior Completo,63,8,SP,5903.665411
+1286,Marketing,Masculino,Superior Completo,53,12,RJ,4521.802453
+1287,RH,Feminino,Superior Incompleto,55,11,SP,3999.646
+1288,Financeiro,Feminino,Superior Incompleto,48,14,SP,2065.208364
+1289,Operacao,Masculino,Superior Completo,55,11,RJ,1398.613241
+1290,Operacao,Masculino,Mestrado,54,12,SP,6547.488984
+1291,Operacao,Feminino,Superior Completo,44,16,SP,3802.048177
+1292,Operacao,Feminino,Mestrado,50,14,SP,6825.575598
+1293,Operacao,Masculino,Superior Completo,51,13,RJ,11716.45362
+1294,Marketing,Masculino,Mestrado,42,17,SP,6505.38937
+1295,Administrativo,Feminino,Mestrado,31,9,SP,6494.385871
+1296,Marketing,Feminino,Superior Completo,49,14,SP,11189.58498
+1297,Operacao,Feminino,Doutorado,62,9,SP,10651.47916
+1298,Administrativo,Masculino,Mestrado,56,11,SP,6823.472462
+1299,Administrativo,Feminino,Superior Completo,61,9,SP,4505.263978
+1300,Financeiro,Masculino,Superior Completo,67,7,BH,4812.58667
+1301,Administrativo,Masculino,Superior Completo,29,5,SP,1905.786902
+1302,Administrativo,Masculino,Doutorado,65,19,SP,15453.32
+1303,RH,Masculino,Superior Completo,49,14,BH,6306.241
+1304,Marketing,Masculino,Superior Completo,44,16,SP,1921.481974
+1305,Marketing,Masculino,Superior Incompleto,36,13,SP,1978.104427
+1306,Operacao,Feminino,Superior Completo,44,16,BH,8636.796943
+1307,Administrativo,Masculino,Mestrado,42,17,SP,6586.481153
+1308,Operacao,Masculino,Superior Completo,46,15,SP,3646.622691
+1309,Financeiro,Masculino,Superior Completo,44,16,SP,5501.94196
+1310,Administrativo,Feminino,Superior Completo,58,10,SP,2720.566346
+1311,Operacao,Masculino,Superior Completo,29,5,SP,5658.619477
+1312,Administrativo,Feminino,Superior Incompleto,62,8,BH,1828.749717
+1313,Operacao,Masculino,Superior Completo,29,6,BH,3222.548966
+1314,Administrativo,Masculino,Superior Completo,46,15,SP,2135.438377
+1315,Marketing,Masculino,Superior Incompleto,33,8,BH,2136.85829
+1316,Administrativo,Feminino,Superior Incompleto,55,11,SP,2071.023616
+1317,Administrativo,Feminino,Doutorado,52,13,SP,16758.74
+1318,Operacao,Feminino,Superior Incompleto,52,12,SP,6191.676216
+1319,Administrativo,Masculino,Superior Incompleto,33,8,RJ,1995.309614
+1320,Administrativo,Masculino,Superior Completo,46,15,SP,3567.727415
+1321,Marketing,Feminino,Superior Completo,51,13,RJ,1563.949684
+1322,Marketing,Masculino,Superior Completo,49,14,SP,6367.174506
+1323,Operacao,Masculino,Superior Incompleto,55,11,RJ,6005.837771
+1324,RH,Masculino,Mestrado,35,8,SP,5641.345
+1325,Administrativo,Masculino,Mestrado,68,7,BH,6292.087472
+1326,Operacao,Masculino,Superior Incompleto,60,9,RJ,6081.383748
+1327,Operacao,Masculino,Superior Incompleto,57,10,SP,6519.502982
+1328,Financeiro,Masculino,Superior Completo,55,11,SP,2069.27462
+1329,Financeiro,Masculino,Superior Completo,34,8,RJ,3465.648999
+1330,Operacao,Masculino,Superior Completo,44,16,SP,1962.848
+1331,Administrativo,Masculino,Superior Completo,29,5,SP,8870.738219
+1332,Administrativo,Masculino,Superior Completo,49,14,SP,7680.266377
+1333,Operacao,Masculino,Superior Completo,40,17,SP,4032.730156
+1334,Operacao,Feminino,Superior Completo,34,8,SP,10562.82014
+1335,Financeiro,Masculino,Superior Completo,53,12,SP,4430.349787
+1336,Operacao,Masculino,Superior Completo,67,4,BH,2309.920369
+1337,Financeiro,Masculino,Superior Completo,44,16,SP,11095.95904
+1338,Financeiro,Masculino,Superior Completo,67,7,SP,9143.632699
+1339,Marketing,Masculino,Superior Incompleto,45,15,SP,1834.14908
+1340,Administrativo,Feminino,Superior Completo,34,8,SP,10038.34854
+1341,Administrativo,Masculino,Superior Completo,63,8,SP,2356.517778
+1342,Marketing,Feminino,Superior Incompleto,55,11,SP,2037.626067
+1343,Operacao,Masculino,Superior Completo,44,16,SP,6110.9628
+1344,Administrativo,Feminino,Superior Completo,34,8,SP,1888.368304
+1345,Administrativo,Masculino,Superior Incompleto,36,13,RJ,1865.284758
+1346,Financeiro,Feminino,Superior Completo,34,8,SP,4610.952047
+1348,Administrativo,Masculino,Mestrado,56,11,RJ,6249.787191
+1349,Marketing,Masculino,Superior Incompleto,33,8,RJ,1887.003033
+1350,RH,Feminino,Superior Completo,67,7,SP,7093.719
+1351,Operacao,Masculino,Mestrado,59,10,SP,6089.925933
+1352,Financeiro,Masculino,Superior Incompleto,57,10,SP,2160.358268
+1353,Administrativo,Masculino,Superior Completo,46,15,SP,2435.111498
+1354,Administrativo,Masculino,Superior Incompleto,66,2,RJ,2064.458645
+1355,Operacao,Feminino,Doutorado,45,16,SP,10386.42381
+1356,Marketing,Feminino,Superior Incompleto,62,8,RJ,1950.120275
+1357,Operacao,Masculino,Superior Completo,49,14,BH,6384.964983
+1358,Operacao,Masculino,Mestrado,59,10,SP,6911.588855
+1359,RH,Feminino,Mestrado,31,9,SP,7215.437
+1360,Operacao,Masculino,Superior Incompleto,66,7,RJ,5971.683999
+1361,Operacao,Masculino,Superior Completo,60,9,SP,3881.506856
+1362,Administrativo,Feminino,Doutorado,45,16,BH,11544.87253
+1363,Operacao,Masculino,Superior Completo,44,16,BH,11887.09626
+1365,Operacao,Masculino,Superior Completo,63,8,BH,6269.864587
+1366,RH,Masculino,Mestrado,50,14,BH,5758.036
+1367,Administrativo,Masculino,Superior Incompleto,60,9,SP,1899.992203
+1368,RH,Masculino,Doutorado,73,15,SP,6112.387
+1369,Operacao,Masculino,Superior Completo,67,7,BH,1918.359259
+1370,Operacao,Feminino,Superior Incompleto,50,13,SP,6447.769942
+1371,Marketing,Masculino,Doutorado,59,14,SP,11331.07164
+1372,Administrativo,Feminino,Superior Incompleto,33,8,SP,1899.798667
+1373,Administrativo,Feminino,Superior Completo,34,8,RJ,10949.14551
+1374,Operacao,Masculino,Superior Completo,46,15,BH,2261.397091
+1375,Operacao,Feminino,Mestrado,65,8,RJ,6326.921081
+1376,Financeiro,Masculino,Superior Completo,60,9,RJ,11825.47915
+1377,RH,Masculino,Superior Completo,37,13,SP,5661.86
+1378,RH,Masculino,Mestrado,54,12,RJ,7542.46
+1379,Administrativo,Masculino,Superior Completo,29,5,RJ,1608.094683
+1380,Operacao,Feminino,Superior Completo,58,10,SP,8219.331654
+1381,Administrativo,Masculino,Superior Completo,29,5,SP,8525.725683
+1382,Operacao,Masculino,Superior Incompleto,36,13,SP,6094.96116
+1383,Operacao,Feminino,Doutorado,66,8,SP,9265.347606
+1384,Administrativo,Feminino,Superior Completo,58,10,SP,6257.252584
+1385,Administrativo,Feminino,Superior Completo,29,5,RJ,1311.246994
+1386,Operacao,Masculino,Superior Incompleto,48,14,SP,6646.447815
+1387,Administrativo,Feminino,Superior Completo,60,9,SP,1920.051495
+1388,Financeiro,Masculino,Mestrado,54,12,RJ,6603.501021
+1389,Administrativo,Feminino,Mestrado,54,12,SP,6733.512189
+1391,Administrativo,Masculino,Superior Completo,58,10,SP,2630.20698
+1392,Financeiro,Masculino,Doutorado,32,8,RJ,10386.15347
+1393,Financeiro,Feminino,Superior Completo,58,10,SP,4478.280088
+1394,RH,Masculino,Superior Completo,53,12,SP,6249.312
+1395,Marketing,Feminino,Superior Incompleto,43,16,BH,2006.54631
+1396,RH,Masculino,Superior Incompleto,42,16,RJ,2997.522
+1397,Marketing,Feminino,Superior Completo,67,7,SP,2450.914449
+1398,Operacao,Feminino,Mestrado,54,12,SP,6852.507984
+1399,Operacao,Feminino,Superior Completo,34,8,RJ,7763.301572
+1400,Administrativo,Masculino,Superior Incompleto,28,5,SP,2192.335309
+1401,Operacao,Masculino,Superior Completo,49,14,RJ,2953.745882
+1402,Marketing,Masculino,Superior Completo,49,14,RJ,6482.527003
+1403,Operacao,Masculino,Superior Completo,67,7,SP,3732.108416
+1404,Administrativo,Feminino,Superior Completo,46,15,SP,6464.704406
+1405,Marketing,Feminino,Doutorado,42,17,BH,7911.559381
+1406,Operacao,Masculino,Mestrado,56,11,BH,6518.228827
+1408,Financeiro,Masculino,Mestrado,35,8,BH,6653.286998
+1409,Financeiro,Masculino,Doutorado,66,19,SP,11076.30159
+1410,Operacao,Feminino,Superior Completo,29,6,BH,8006.785994
+1411,Operacao,Masculino,Superior Incompleto,50,13,SP,5864.893524
+1412,Operacao,Masculino,Superior Completo,44,16,SP,9450.850993
+1413,RH,Masculino,Superior Completo,55,11,SP,8322.199
+1414,Marketing,Feminino,Superior Completo,55,11,RJ,3451.583821
+1415,Administrativo,Feminino,Superior Incompleto,45,15,RJ,2114.031604
+1416,RH,Feminino,Superior Incompleto,33,8,SP,3180.715
+1417,Administrativo,Masculino,Superior Completo,40,17,BH,4253.722813
+1418,Operacao,Feminino,Superior Completo,51,13,SP,7673.118823
+1419,Marketing,Masculino,Mestrado,68,7,SP,5888.082019
+1420,Operacao,Feminino,Superior Completo,53,12,SP,6546.947859
+1421,Administrativo,Masculino,Superior Completo,51,13,SP,7661.67686
+1422,Financeiro,Masculino,Superior Completo,55,11,SP,2093.261048
+1423,Operacao,Masculino,Superior Completo,40,17,SP,5140.50139
+1424,Marketing,Feminino,Superior Incompleto,36,13,SP,2058.975075
+1425,Administrativo,Feminino,Superior Incompleto,66,7,SP,2036.664782
+1426,Marketing,Feminino,Superior Incompleto,32,8,SP,1962.183183
+1427,Administrativo,Masculino,Doutorado,31,8,SP,19790.41
+1428,Marketing,Feminino,Superior Completo,46,15,SP,2202.308875
+1429,RH,Masculino,Superior Incompleto,39,15,SP,3552.351
+1430,Operacao,Masculino,Superior Completo,49,14,SP,10318.68659
+1431,Financeiro,Masculino,Superior Incompleto,42,16,SP,2019.875261
+1432,Operacao,Masculino,Mestrado,65,8,RJ,6706.048592
+1433,Operacao,Masculino,Superior Completo,37,12,SP,1988.119
+1435,Marketing,Masculino,Superior Completo,44,16,BH,7137.6451
+1436,Operacao,Masculino,Superior Completo,37,13,SP,3691.484067
+1437,Operacao,Masculino,Superior Completo,40,17,SP,4173.366421
+1438,Administrativo,Feminino,Superior Completo,53,12,RJ,6207.904859
+1439,Marketing,Masculino,Superior Incompleto,55,11,SP,2023.70614
+1440,Financeiro,Feminino,Superior Incompleto,66,7,SP,2018.611562
+1441,Marketing,Feminino,Superior Completo,46,15,RJ,9040.199668
+1442,Operacao,Masculino,Superior Incompleto,55,11,SP,6051.133752
+1443,Administrativo,Masculino,Superior Incompleto,57,10,SP,1973.117202
+1444,Administrativo,Feminino,Superior Incompleto,62,8,RJ,1987.664182
+1445,Marketing,Masculino,Superior Completo,46,15,SP,1972.163
+1446,Administrativo,Feminino,Superior Incompleto,52,12,SP,1965.021638
+1447,Administrativo,Masculino,Superior Completo,60,9,SP,9216.599412
+1448,Marketing,Masculino,Superior Completo,49,14,BH,8855.382941
+1449,RH,Masculino,Superior Completo,53,12,SP,5743.988
+1450,Financeiro,Masculino,Doutorado,36,13,BH,9304.201717
+1451,Operacao,Feminino,Superior Completo,60,9,RJ,3605.389989
+1452,Marketing,Masculino,Superior Incompleto,28,5,SP,1810.041325
+1453,RH,Feminino,Superior Completo,34,8,BH,6129.328
+1454,Operacao,Feminino,Superior Completo,67,7,RJ,6498.817201
+1455,Operacao,Feminino,Mestrado,68,7,SP,6681.788744
+1456,Administrativo,Masculino,Mestrado,56,11,RJ,5877.878809
+1457,Administrativo,Masculino,Superior Incompleto,62,8,BH,2133.764337
+1458,Operacao,Feminino,Doutorado,52,13,BH,8726.836581
+1459,Operacao,Feminino,Doutorado,39,15,SP,12085.55215
+1460,Administrativo,Masculino,Superior Completo,34,8,RJ,3085.513286
+1461,Operacao,Masculino,Superior Completo,60,9,SP,7693.143282
+1462,Operacao,Feminino,Superior Incompleto,59,9,SP,6714.93728
+1463,Operacao,Masculino,Superior Completo,58,10,RJ,3206.223104
+1464,Marketing,Masculino,Superior Completo,58,10,SP,8650.235187
+1465,Operacao,Masculino,Superior Completo,67,7,BH,8905.861608
+1466,Operacao,Masculino,Superior Incompleto,48,14,RJ,6650.006835
+1467,Marketing,Feminino,Superior Incompleto,52,12,BH,2166.787991
+1468,Operacao,Masculino,Superior Completo,46,15,SP,1848.638315
+1469,Marketing,Masculino,Superior Completo,29,5,SP,5659.39469
+1470,RH,Masculino,Superior Incompleto,52,12,SP,3726.266
+1471,Marketing,Masculino,Superior Completo,34,8,SP,2745.842708
+1472,Administrativo,Feminino,Superior Completo,44,16,SP,2603.616922
+1473,Administrativo,Feminino,Doutorado,54,12,BH,10589.0049
+1474,Operacao,Masculino,Mestrado,54,12,RJ,6125.029091
+1475,Operacao,Masculino,Superior Completo,34,8,SP,3881.177343
+1476,Financeiro,Feminino,Mestrado,65,8,SP,6551.665208
+1477,Operacao,Masculino,Superior Incompleto,28,5,SP,5671.460336
+1478,Operacao,Masculino,Superior Incompleto,59,9,SP,6376.870919
+1479,RH,Feminino,Superior Completo,29,5,RJ,6482.223
+1480,Administrativo,Feminino,Superior Completo,60,9,RJ,7180.746869
+1481,Administrativo,Feminino,Superior Completo,67,7,SP,6038.430453
+1482,Administrativo,Masculino,Superior Completo,53,12,BH,3436.303206
+1483,RH,Feminino,Superior Completo,46,15,SP,5555.273
+1484,Operacao,Feminino,Superior Completo,53,12,BH,7487.723715
+1485,Administrativo,Masculino,Mestrado,35,8,RJ,5817.429428
+1486,Operacao,Masculino,Doutorado,54,12,RJ,9594.840926
+1487,Operacao,Masculino,Superior Incompleto,42,16,SP,5994.648671
+1488,Operacao,Masculino,Superior Completo,29,6,RJ,4566.919502
+1489,Operacao,Feminino,Mestrado,65,8,SP,5869.026419
+1490,Marketing,Masculino,Doutorado,58,7,SP,8929.486396
+1491,Operacao,Feminino,Superior Completo,63,8,SP,6732.662882
+1492,Administrativo,Masculino,Superior Completo,49,14,SP,1972.059
+1493,Administrativo,Masculino,Superior Completo,63,8,SP,10224.36472
+1494,Administrativo,Masculino,Doutorado,52,13,RJ,10445.38004
+1495,Financeiro,Masculino,Superior Incompleto,45,15,RJ,2008.96883
+1496,Operacao,Masculino,Superior Completo,49,14,BH,5566.812905
+1497,Operacao,Feminino,Superior Incompleto,59,9,SP,6458.856502
+1498,RH,Feminino,Superior Completo,37,13,BH,7442.104
+1499,Financeiro,Feminino,Superior Incompleto,50,13,SP,2027.150338
+1500,Operacao,Feminino,Superior Completo,60,9,SP,1957.779
+1501,Operacao,Feminino,Superior Completo,34,8,SP,11883.43761
+1502,RH,Masculino,Superior Incompleto,28,5,SP,3464.901
+1503,Operacao,Masculino,Doutorado,28,8,SP,12048.29864
+1504,Marketing,Masculino,Superior Incompleto,55,11,SP,1889.167203
+1505,Marketing,Masculino,Superior Incompleto,55,11,SP,2027.412866
+1506,Marketing,Masculino,Doutorado,43,8,SP,9321.237949
+1507,RH,Feminino,Doutorado,56,20,RJ,10189.237
+1508,Financeiro,Feminino,Superior Incompleto,66,7,SP,2028.074029
+1509,Operacao,Masculino,Superior Completo,67,7,SP,5593.057163
+1510,RH,Masculino,Superior Incompleto,28,5,SP,3046.94
+1511,Administrativo,Feminino,Superior Completo,55,11,BH,7968.581521
+1512,Operacao,Feminino,Superior Completo,48,14,BH,7323.194938
+1513,Administrativo,Feminino,Mestrado,65,8,SP,6258.125424
+1514,Operacao,Masculino,Superior Completo,29,6,RJ,3868.319835
+1515,Operacao,Masculino,Superior Completo,44,16,SP,6118.290388
+1516,Administrativo,Feminino,Superior Incompleto,39,15,BH,2171.749259
+1517,RH,Masculino,Superior Completo,34,8,SP,6603.683
+1518,Operacao,Masculino,Superior Completo,37,13,SP,4479.97425
+1519,Operacao,Feminino,Superior Completo,57,10,BH,6923.6224
+1520,RH,Feminino,Superior Completo,46,15,SP,5359.789
