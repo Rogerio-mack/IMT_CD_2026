@@ -70,7 +70,7 @@
 
 * Hands on [Pandas Índices, `df.loc` `df.iloc`](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2026/blob/main/Pandas_indices_handson.ipynb)
 
-* **Atenção:** Lab avaliativo 20.03
+* **Atenção:** Lab avaliativo 20.03 | [Solução](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2026/blob/main/Ex1_2026_solucao.ipynb)
 
 #### **19.03** [Mais sobre Seleções e Atualização de Dados](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2026/blob/main/Pandas_I.ipynb)
 * [VanderPlas, Jake (2016). **Python Data Science Handbook**. O'Reilly Media, Inc.](https://jakevdp.github.io/PythonDataScienceHandbook)  
