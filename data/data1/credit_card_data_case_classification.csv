@@ -1,0 +1,4 @@
+reports,age,income,share,expenditure,owner,selfemp,dependents,months,majorcards,active,client_name,sex
+0,39,2.3,0.0,0.0,no,yes,0,46.0,1,3,George Smith,Male
+0,25,2.24,0.0,4.58,no,yes,0,12.0,1,2,Matthew Maddox,Not Declared
+0,41,1.98,0.0,2.2,yes,no,2,,1,0,Ashley Cooper,Female

@@ -1,0 +1,4 @@
+reports,age,income,share,expenditure,owner,selfemp,dependents,months,majorcards,active,client_name,sex
+0,32,3.37,0.07,185.06,no,no,0,55.0,0,6,Jason Ramirez,Male
+0,25,2.24,0.0,4.58,no,yes,0,,1,2,Eric Simon,Not Declared
+1,30,2.18,0.0,0.0,no,yes,0,13.0,1,1,Julian Choi,Male
