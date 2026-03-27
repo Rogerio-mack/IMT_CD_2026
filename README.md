@@ -93,6 +93,6 @@
 > * [Exercícios GroupBy](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2026/blob/main/Ex_groupby.ipynb)
 * Hands on [Reshape: Melt, Pivot, Tabelas de Contigência (McKinney, Wes (2023), Cap. 8)](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2026/blob/main/Hands_on_Reshape.ipynb)
 > * [Exercícios Reshape](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2026/blob/main/Ex_reshape.ipynb)
-* Hands on Joins e Merges, Concat (McKinney, Wes (2023), Cap. 8)
+* Hands on [Joins e Merges, Concat (McKinney, Wes (2023), Cap. 8)](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2026/blob/main/Pandas_I.ipynb#scrollTo=lvwz8YbFj3LI)
 * Hands on Manipulação de String, apply, regex (McKinney, Wes (2023), Cap. 7)
 
