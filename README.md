@@ -117,6 +117,7 @@
 > * Operações de string vetorizadas +apply e expressões regulares
 > * *Ciclo de Vida de Sistemas de Ciência de Dados*
 > * *Eco Sistemas de Ciência de Dados*
+> * *Paradigma do Aprendizado de Máquina*
 
 
 
