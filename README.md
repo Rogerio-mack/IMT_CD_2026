@@ -98,7 +98,7 @@
 
 #### **02.04** Data Cleaning 
 
-* Hands on [Data Cleaning, McKinney, Wes (2023), Cap. 7](https://colab.research.google.com/drive/1lrDxt84YTw_6EQ1-glWdpDXYuoX3vhFb?usp=sharing) 
+* Hands on [Data Cleaning, McKinney, Wes (2023), Cap. 7](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2026/blob/main/Hands_on_DataCleaning_20260402.ipynb) 
 
 * **Atenção:** [Lab avaliativo até 06.04](https://docs.google.com/forms/d/e/1FAIpQLSc49w2dAaSYKKzpWQkMgHBN3TaDYPAT8fZ19oU5SPJpykMZoA/viewform?usp=publish-editor)
 
