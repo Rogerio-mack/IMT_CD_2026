@@ -99,3 +99,22 @@
 #### **02.04**
 
 * **Atenção:** [Lab avaliativo até 06.04](https://docs.google.com/forms/d/e/1FAIpQLSc49w2dAaSYKKzpWQkMgHBN3TaDYPAT8fZ19oU5SPJpykMZoA/viewform?usp=publish-editor)
+
+* **Principais Conteúdos para a prova P1**
+
+> * Manipulação de dados com Pandas
+> * Indexação e seleção de dados
+> * Operando com dados em Pandas
+> * Tratamento de dados ausentes 
+> * Indexação Hierárquica, não ocorrem índices hierárquicos, exceto o que vimos nos índices em groupby
+> * Combinando conjuntos de dados: concatenar e anexar
+> * Combinando conjuntos de dados: mesclar e unir
+> * Agregação e agrupamento
+> * Tabelas dinâmicas e reshape +pivot e melt
+> * Tabelas de Contigência
+> * Operações de string vetorizadas +apply e expressões regulares
+> * *Ciclo de Vida de Sistemas de Ciência de Dados*
+> * *Eco Sistemas de Ciência de Dados*
+
+
+
