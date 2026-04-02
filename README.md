@@ -96,7 +96,9 @@
 * Hands on [Joins e Merges, Concat (McKinney, Wes (2023), Cap. 8)](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2026/blob/main/Pandas_I.ipynb#scrollTo=lvwz8YbFj3LI)
 * Hands on [Manipulação de String, apply, regex (McKinney, Wes (2023), Cap. 7)](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2026/blob/main/Vetorizacao_apply.ipynb)
 
-#### **02.04**
+#### **02.04** Data Cleaning 
+
+* [Data Cleaning, McKinney, Wes (2023), Cap. 7](https://colab.research.google.com/drive/1lrDxt84YTw_6EQ1-glWdpDXYuoX3vhFb?usp=sharing) 
 
 * **Atenção:** [Lab avaliativo até 06.04](https://docs.google.com/forms/d/e/1FAIpQLSc49w2dAaSYKKzpWQkMgHBN3TaDYPAT8fZ19oU5SPJpykMZoA/viewform?usp=publish-editor)
 
