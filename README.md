@@ -100,7 +100,7 @@
 
 * Hands on [Data Cleaning, McKinney, Wes (2023), Cap. 7](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2026/blob/main/Hands_on_DataCleaning_20260402.ipynb) 
 
-* **Atenção:** [Lab avaliativo até 06.04](https://docs.google.com/forms/d/e/1FAIpQLSc49w2dAaSYKKzpWQkMgHBN3TaDYPAT8fZ19oU5SPJpykMZoA/viewform?usp=publish-editor)
+* **Atenção:** [Lab avaliativo até 06.04](https://docs.google.com/forms/d/e/1FAIpQLSc49w2dAaSYKKzpWQkMgHBN3TaDYPAT8fZ19oU5SPJpykMZoA/viewform?usp=publish-editor) | [Solução](https://colab.research.google.com/drive/18Kd-bVh1mTTq1JqVIKqCl7ha9S3COtwK?usp=sharing) 
 
 * **Principais Conteúdos para a prova P1**
 
