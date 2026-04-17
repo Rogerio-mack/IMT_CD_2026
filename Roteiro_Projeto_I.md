@@ -17,6 +17,8 @@ Para a série de inadimplência não há restrições.
    2.4. Link para uma apresentação de no máximo 5min no YouTube e respectivos slides empregados
 
    2.5. Sumário no readme, apontando para cada uma das entregas
+
+   2.6. Adicione referências e declare usos de IA no desenvolvimento do trabalho.
      
 4. **Rubricas**.
 
