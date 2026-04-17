@@ -125,7 +125,7 @@
 > * [Introdução](https://colab.research.google.com/github/Rogerio-mack/Visualizacao-de-Dados-em-Python/blob/main/c0_intro.ipynb)  
 > * [Gráficos com `Matplotlib`](https://colab.research.google.com/github/Rogerio-mack/Visualizacao-de-Dados-em-Python/blob/main/c2_parte_1.ipynb)
 
-* [Exercício `Matplotlib`, script e artist layer](https://colab.research.google.com/github/Rogerio-mack/IA_2025S1/blob/main/ex_matplotlib1.ipynb) |
+* [Exercício `Matplotlib`](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2026/blob/main/ex_matplotlib1.ipynb) |
 [Solução](https://colab.research.google.com/github/Rogerio-mack/IA_2025S1/blob/main/ex_matplotlib1_solucao.ipynb)
 
 * [Wickham, EDA](https://r4ds.had.co.nz/exploratory-data-analysis.html#exploratory-data-analysis) | [Análise Exploratória, notas de aula](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/IMT_EDA.ipynb)
