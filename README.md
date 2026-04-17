@@ -130,6 +130,12 @@
 
 * [Wickham, EDA](https://r4ds.had.co.nz/exploratory-data-analysis.html#exploratory-data-analysis) | [Análise Exploratória, notas de aula](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/IMT_EDA.ipynb)
 
-* **Projeto I (*primeiro semestre*)**
+#### **Projeto I EDA (Exploratory Data Analysis)**
+
+> 1. **Parte A. Pesquisas de Opinião**. Elabore um EDA (Exploratory Data Analysis) com base em uma **pesquisa de opinião do [Cesop](https://www.cesop.unicamp.br/) (Centro de Estudos de Opinião Pública)**. Correlacione os dados da pesquisa com ao menos uma outra base pública (por exemplo, outra pesquisa, dados demográficos, econômicos ou notícias). [Escolha aqui uma das pesquisa de opinião](https://drive.google.com/drive/folders/1kEFebhc5VEk2AytEHTFbCI8tL9gGZBDM?usp=sharing). Caso deseje empregar outra pesquisa, do [Cesop](https://www.cesop.unicamp.br/) ou outra de características semelhantes, consulte o professor. 
+
+> 2. **Parte B. Séries Temporais**. Elabore um EDA (Exploratory Data Analysis) focado em uma **série histórica de evolução da inadimplência no Brasil**. Podem ser empregadas quaisquer séries públicas de inadimplência (por exemplo, a inadimplência do varejo). O perfil das dívidas e dos inadimplentes pode ser explorado, mas o foco deve estar nas séries históricas, na evolução da inadimplência. Correlacione os dados de inadimplência com ao menos outros dois indicadores (por exemplo, juros, dólar, PIB, sentimento de notícias ou de redes sociais etc.). Caso deseje outros dados, de características semelhantes consulte o professor.  
+
+Acesse aqui um [roteiro para o projeto](https://github.com/Rogerio-mack/IMT_CD_2026/blob/main/Roteiro_Projeto_I.md) com mais informações. 
 
 
