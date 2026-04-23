@@ -128,6 +128,8 @@
 * [Exercício `Matplotlib`](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2026/blob/main/ex_matplotlib1.ipynb) |
 [Solução](https://colab.research.google.com/github/Rogerio-mack/IA_2025S1/blob/main/ex_matplotlib1_solucao.ipynb)
 
+> * [Evolução](https://colab.research.google.com/github/Rogerio-mack/Visualizacao-de-Dados-em-Python/blob/main/c3_parte_1.ipynb)
+  
 * [Wickham, EDA](https://r4ds.had.co.nz/exploratory-data-analysis.html#exploratory-data-analysis) | [Análise Exploratória, notas de aula](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/IMT_EDA.ipynb)
 
 #### **Projeto I EDA (Exploratory Data Analysis)**
@@ -138,4 +140,7 @@
 
 Acesse aqui um [roteiro para o projeto](https://github.com/Rogerio-mack/IMT_CD_2026/blob/main/Roteiro_Projeto_I.md) com mais informações. 
 
+#### **23.04** Visualização de Dados e Análise Exploratória
 
+* [Oliveira, R. (2022), Visualizacao de Dados em Python](https://github.com/Rogerio-mack/Visualizacao-de-Dados-em-Python)
+> * [Distribuição](https://colab.research.google.com/github/Rogerio-mack/Visualizacao-de-Dados-em-Python/blob/main/c4_parte_1.ipynb)
