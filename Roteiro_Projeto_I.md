@@ -30,3 +30,6 @@ Para a série de inadimplência não há restrições.
     corretude das análises e conclusões*)
 
    3.4. 1 Apresentação geral do trabalho (*organização, clareza, texto, qualidade da apresentação e vídeo*
+
+5. **Data da Entrega**. A entrega dos projetos será no **final do semestre**. Ou na última semana de aula, com apresentação (vídeo e discussão dos projetos) em sala, ou na semana de provas (neste caso, apenas a entrega dos artefatos, incluindo o vídeo de apresentação).
+
