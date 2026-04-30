@@ -143,3 +143,11 @@ Acesse aqui um [roteiro para o projeto](https://github.com/Rogerio-mack/IMT_CD_2
 
 * [Oliveira, R. (2022), Visualizacao de Dados em Python](https://github.com/Rogerio-mack/Visualizacao-de-Dados-em-Python)
 > * [Distribuição](https://colab.research.google.com/github/Rogerio-mack/Visualizacao-de-Dados-em-Python/blob/main/c4_parte_1.ipynb)
+
+#### **30.04** Visualização de Dados e Análise Exploratória
+
+* [Oliveira, R. (2022), Visualizacao de Dados em Python](https://github.com/Rogerio-mack/Visualizacao-de-Dados-em-Python)
+> * [Quantidades e Proporções](https://colab.research.google.com/github/Rogerio-mack/Visualizacao-de-Dados-em-Python/blob/main/c5_parte_1.ipynb)
+> * [Relações](https://colab.research.google.com/github/Rogerio-mack/Visualizacao-de-Dados-em-Python/blob/main/c6_parte_1.ipynb)
+
+
