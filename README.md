@@ -150,4 +150,6 @@ Acesse aqui um [roteiro para o projeto](https://github.com/Rogerio-mack/IMT_CD_2
 > * [Quantidades e Proporções](https://colab.research.google.com/github/Rogerio-mack/Visualizacao-de-Dados-em-Python/blob/main/c5_parte_1.ipynb)
 > * [Relações](https://colab.research.google.com/github/Rogerio-mack/Visualizacao-de-Dados-em-Python/blob/main/c6_parte_1.ipynb)
 
+#### **07.05** Introdução a Análise Estatística
 
+[Lab Avaliativo 3](https://docs.google.com/forms/d/e/1FAIpQLSdpqzo67sdZV446JD4fDATRuB-FwXthNEEEJJ8gcZw5Dd_Bsw/viewform?usp=dialog)
