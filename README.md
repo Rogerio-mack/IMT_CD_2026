@@ -152,4 +152,5 @@ Acesse aqui um [roteiro para o projeto](https://github.com/Rogerio-mack/IMT_CD_2
 
 #### **07.05** Introdução a Análise Estatística
 
-[Lab Avaliativo 3](https://docs.google.com/forms/d/e/1FAIpQLSdpqzo67sdZV446JD4fDATRuB-FwXthNEEEJJ8gcZw5Dd_Bsw/viewform?usp=dialog)
+* [Distribuições, Inferência e Testes Estatísticos](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2026/blob/main/IMT_Distribuicoes_Inferencia_IC.ipynb)
+* **Atenção:** [Lab Avaliativo 3](https://docs.google.com/forms/d/e/1FAIpQLSdpqzo67sdZV446JD4fDATRuB-FwXthNEEEJJ8gcZw5Dd_Bsw/viewform?usp=dialog) até **18.05**, individual ou em dupla.
