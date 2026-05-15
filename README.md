@@ -161,3 +161,5 @@ Acesse aqui um [roteiro para o projeto](https://github.com/Rogerio-mack/IMT_CD_2
 * [Distribuições, Inferência e Testes Estatísticos](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2026/blob/main/IMT_Distribuicoes_Inferencia_IC.ipynb), *Bootstrap*
 * [RVS PDF CDF PPF Exemplo para Distribuição Normal](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2026/blob/main/rvs_pdf_cdf_ppf_resumo_norm.ipynb)
 * [Intervalos de Confiança, Testes de Hipóteses](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2026/blob/main/IMT_IC_HipoteseTests.ipynb)
+
+* [HandsOn em Testes de Hipóteses](https://colab.research.google.com/drive/1-8CtuH378VMh4QHYr4g2rz9zRQpTjD83?usp=sharing)
