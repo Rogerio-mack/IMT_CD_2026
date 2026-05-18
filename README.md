@@ -163,3 +163,5 @@ Acesse aqui um [roteiro para o projeto](https://github.com/Rogerio-mack/IMT_CD_2
 * [Intervalos de Confiança, Testes de Hipóteses](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2026/blob/main/IMT_IC_HipoteseTests.ipynb)
 
 * [HandsOn em Testes de Hipóteses](https://colab.research.google.com/drive/1-8CtuH378VMh4QHYr4g2rz9zRQpTjD83?usp=sharing)
+
+* **Atenção**: **Exercício avaliativo (Testes de Significância), presencial, 22.05** (*o aluno pode fazer em quaisquer dos dois horários da disciplina*)
