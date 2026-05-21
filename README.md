@@ -165,3 +165,7 @@ Acesse aqui um [roteiro para o projeto](https://github.com/Rogerio-mack/IMT_CD_2
 * [HandsOn em Testes de Hipóteses](https://colab.research.google.com/drive/1-8CtuH378VMh4QHYr4g2rz9zRQpTjD83?usp=sharing)
 
 * **Atenção**: **Exercício avaliativo (Testes de Significância), presencial, 22.05** (*o aluno pode fazer em quaisquer dos dois horários da disciplina*)
+
+#### **21.05** Testes Paramétricos, Não Paramétricos e de Correlação e Associação
+
+* [Testes Paramétricos, Não Paramétricos e de Correlação e Associação](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2026/blob/main/HandsOn_Testes_de_Hipoteses.ipynb)
