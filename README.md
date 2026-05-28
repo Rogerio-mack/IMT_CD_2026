@@ -172,8 +172,6 @@ Acesse aqui um [roteiro para o projeto](https://github.com/Rogerio-mack/IMT_CD_2
 
 #### **28.05** Séries Temporais
 
-**21.05** **Exercícios, Testes de Significância, Séries Temporais I**
-
 * Oliveira, R, Abarracin, OYE, Silva, GR (2024) [Introdução às Séries Temporais: Uma Abordagem Prática em Python](https://github.com/Introducao-Series-Temporais-em-Python/Book) Editora Mackenzie. Cap. 1, 3 e 4.
   
 * [Séries Temporais, Minicurso SBSI](https://github.com/Introducao-Series-Temporais-em-Python/minicurso-SBC-SBSI-2024). [Livro SBSI (Capítulo)](https://books-sol.sbc.org.br/index.php/sbc/catalog/book/138)
