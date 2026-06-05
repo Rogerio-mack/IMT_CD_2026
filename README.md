@@ -154,7 +154,7 @@ Acesse aqui um [roteiro para o projeto](https://github.com/Rogerio-mack/IMT_CD_2
 
 * [Distribuições, Inferência e Testes Estatísticos](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2026/blob/main/IMT_Distribuicoes_Inferencia_IC.ipynb)
 
-* **Atenção:** [Lab Avaliativo 3](https://docs.google.com/forms/d/e/1FAIpQLSdpqzo67sdZV446JD4fDATRuB-FwXthNEEEJJ8gcZw5Dd_Bsw/viewform?usp=dialog) até **18.05**, individual ou em dupla.
+* **Atenção:** [Lab Avaliativo 3](https://docs.google.com/forms/d/e/1FAIpQLSdpqzo67sdZV446JD4fDATRuB-FwXthNEEEJJ8gcZw5Dd_Bsw/viewform?usp=dialog) até **18.05**, individual ou em dupla. | [Solução](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2026/blob/main/IMT_ex_avaliativo_graphs_3_solucao.ipynb)
 
 #### **14.05** Análise Estatística, Testes de Significância e Estatística Computacional
 
@@ -164,7 +164,7 @@ Acesse aqui um [roteiro para o projeto](https://github.com/Rogerio-mack/IMT_CD_2
 
 * [HandsOn em Testes de Hipóteses](https://colab.research.google.com/drive/1-8CtuH378VMh4QHYr4g2rz9zRQpTjD83?usp=sharing)
 
-* **Atenção**: **Exercício avaliativo (Testes de Significância), presencial, 22.05** (*o aluno pode fazer em quaisquer dos dois horários da disciplina*)
+* **Atenção**: **Exercício avaliativo (Testes de Significância), presencial, 22.05** | [Solução](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2026/blob/main/IMT_ex_avaliativo_4_testes_de_significancia_solucao.ipynb)
 
 #### **21.05** Testes Paramétricos, Não Paramétricos e de Correlação e Associação
 
@@ -175,4 +175,13 @@ Acesse aqui um [roteiro para o projeto](https://github.com/Rogerio-mack/IMT_CD_2
 * Oliveira, R, Abarracin, OYE, Silva, GR (2024) [Introdução às Séries Temporais: Uma Abordagem Prática em Python](https://github.com/Introducao-Series-Temporais-em-Python/Book) Editora Mackenzie. Cap. 1, 3 e 4.
   
 * [Séries Temporais, Minicurso SBSI](https://github.com/Introducao-Series-Temporais-em-Python/minicurso-SBC-SBSI-2024). [Livro SBSI (Capítulo)](https://books-sol.sbc.org.br/index.php/sbc/catalog/book/138)
+
+#### **05.06** Séries Temporais, pipeline completos de forecast
+
+* **AULA ONLINE, 05.06 16:50h** Link: https://meet.google.com/hhs-kbgw-zjy
+* **Principais Conteúdos e Orientações para PROVA**
+> * Visualização de dados: gráficos de  evolução, distribuições, proporções e relações; ornamentos; múltiplos gráficos em figuras (1 exercício).
+> * Testes de Significância: testes paramétricos e não paramétricos; pressupostos, seleção e execução de testes de hipóteses (1-2 exercícios). *Não haverá exercícios de permutation test ou bootstrap na prova*.
+> * Séries Temporais: modelos ARIMA; determinação dos parâmetros (p,d,q); forecast de uma série (1-2 exercícios).
+> * Prova, como comentado em sala: Parte I: *máximo 30min, escrita e sem consulta (3-4 perguntas e testes)*; Parte II: *60min, parte prática com consulta livre (ver acima a distribuição dos exercícios)*
 
