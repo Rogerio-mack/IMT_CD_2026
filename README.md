@@ -178,7 +178,7 @@ Acesse aqui um [roteiro para o projeto](https://github.com/Rogerio-mack/IMT_CD_2
 
 #### **05.06** Séries Temporais, pipeline completos de forecast
 
-* **AULA ONLINE | 05.06 16:50h | Link: https://meet.google.com/hhs-kbgw-zjy** | *A gravação, se tudo correr bem, estará disponível em até 24h após o encerramento.*
+* **AULA ONLINE | 05.06 16:50h/19:00h | Link: https://meet.google.com/hhs-kbgw-zjy** | *A gravação, se tudo correr bem, estará disponível em até 24h após o encerramento.*
 > * [Pipeline ARIMA](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2026/blob/main/Modelo_ARIMA_pipeline.ipynb)
 
 <br>
