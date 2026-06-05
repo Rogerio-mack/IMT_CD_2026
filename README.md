@@ -178,8 +178,9 @@ Acesse aqui um [roteiro para o projeto](https://github.com/Rogerio-mack/IMT_CD_2
 
 #### **05.06** Séries Temporais, pipeline completos de forecast
 
-* **AULA ONLINE | 05.06 16:50h | Link: https://meet.google.com/hhs-kbgw-zjy**
-> *Problemas em acessar? envie mensagem para rogerio.oliveira@maua.br ou (11)97515-1919*
+* **AULA ONLINE | 05.06 16:50h | Link: https://meet.google.com/hhs-kbgw-zjy** 
+> * *Problemas em acessar? envie mensagem para rogerio.oliveira@maua.br ou (11)97515-1919*
+> * [Pipeline ARIMA](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2026/blob/main/Modelo_ARIMA_pipeline.ipynb)
 
 <br>
 
