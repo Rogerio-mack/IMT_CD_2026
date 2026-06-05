@@ -178,8 +178,12 @@ Acesse aqui um [roteiro para o projeto](https://github.com/Rogerio-mack/IMT_CD_2
 
 #### **05.06** Séries Temporais, pipeline completos de forecast
 
-* **AULA ONLINE | 05.06 16:50h | Link: https://meet.google.com/hhs-kbgw-zjy** (*problemas em acessar, envie mensagem para rogerio.oliveira@maua.br ou (11)97515-1919
-* **Principais Conteúdos e Orientações para PROVA**
+* **AULA ONLINE | 05.06 16:50h | Link: https://meet.google.com/hhs-kbgw-zjy**
+> *Problemas em acessar? envie mensagem para rogerio.oliveira@maua.br ou (11)97515-1919*
+
+<br>
+
+* **Principais Conteúdos e Orientações para a PROVA**
 > * Visualização de dados: gráficos de  evolução, distribuições, proporções e relações; ornamentos; múltiplos gráficos em figuras (1 exercício).
 > * Testes de Significância: testes paramétricos e não paramétricos; pressupostos, seleção e execução de testes de hipóteses (1-2 exercícios). *Não haverá exercícios de permutation test ou bootstrap na prova*.
 > * Séries Temporais: modelos ARIMA; determinação dos parâmetros (p,d,q); forecast de uma série (1-2 exercícios).
