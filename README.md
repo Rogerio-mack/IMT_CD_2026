@@ -189,3 +189,4 @@ Acesse aqui um [roteiro para o projeto](https://github.com/Rogerio-mack/IMT_CD_2
 > * Séries Temporais: modelos ARIMA; determinação dos parâmetros (p,d,q); forecast de uma série (1-2 exercícios).
 > * Prova, como comentado em sala: Parte I: *máximo 30min, escrita e sem consulta (3-4 perguntas e testes)*; Parte II: *60min, parte prática com consulta livre (ver acima a distribuição dos exercícios)*
 
+### [LINK PARA ENTREGA DO PROJETO 1o SEMESTRE](https://docs.google.com/forms/d/e/1FAIpQLSe4Pt8dYpzULyCEgf6K-3Gy1VCApvFAigfQibwshIk2YBxivQ/viewform?usp=preview), até 15.06.2026, 23:59h
