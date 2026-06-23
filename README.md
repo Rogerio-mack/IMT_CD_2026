@@ -193,5 +193,5 @@ Acesse aqui um [roteiro para o projeto](https://github.com/Rogerio-mack/IMT_CD_2
 
 ### [Detalhamento das notas e feedbacks](https://github.com/Rogerio-mack/IMT_CD_2026/raw/refs/heads/main/B2_notas.xlsx)
 
-> Acesse aqui a solução da P2: [P2 A Solução](https://colab.research.google.com/drive/1K8UAerRFtgyTtRQOCH83UM1qzHkKA0Bg?usp=sharing) | [P2 B Solução](https://colab.research.google.com/drive/1gZ-wZMZN8LxSq2frGPnOpoGN3dAMaDVF?usp=sharing)
+> Acesse aqui a solução da P2: [P2 A Solução](https://colab.research.google.com/drive/1K8UAerRFtgyTtRQOCH83UM1qzHkKA0Bg?usp=sharing) | [P2 B Solução](https://colab.research.google.com/drive/1gZ-wZMZN8LxSq2frGPnOpoGN3dAMaDVF?usp=sharing) | [P2 Teoria](https://github.com/Rogerio-mack/IMT_CD_2026/blob/main/P2_gabarito.pdf)
 > *Para dúvidas sobre as notas, podem me procurar pessoalmente, 25.06 (quinta-feira) no primeiro horário, das 16:50h às 18:00h.*
