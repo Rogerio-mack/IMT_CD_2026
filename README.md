@@ -14,21 +14,14 @@
 <br>
 <br>
 
-### Exemplos de Trabalhos de Final de Curso dos Alunos (2024 - 2025, *em breve*) 
 
-> [Classificação de artigos científicos do site Arxiv](https://github.com/Projeto-Ciencia-de-Dados/ProjetoCD) |
-[Crash Test](https://github.com/CD-CrashTest/Crash_Test) |
-[Chorano e Dançando](https://github.com/CDIMT2024/chorano_e_dancando?tab=readme-ov-file) |
-[Previsão de Ações com Séries Temporais e IA Generativa](https://github.com/ubiratanfilho/stocks_forecasting/tree/main) |
-[Ranking de Apps de Bancos mais bem Avaliados da Google Play](https://github.com/PedroHein/T6_CD2)
+## Programação (2o Semestre)
 
-<br>
-<br>
+**11.08** **Aprendizado Supervisionado: Regressão Linear**
 
-## Programação
+> * [Introdução ao Aprendizado de Máquina](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML1_introducao.ipynb)
 
-### Introdução, IA X Ciência de Dados, CRISP DM 
+> * [Aprendizado Supervisionado e Regressão Linear](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML2_Regressao.ipynb)
 
-#### **12.02** [Ciências de Dados e Usos](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2026/blob/main/Ciencias_de_Dados_e_Usos.ipynb)
-
-* [Leia *"A brief history of data science"* (cap. 1)](https://github.com/Rogerio-mack/IMT_CD_2026/blob/main/books/dsp.pdf)
+> *ML X IA X Redes neurais; Aprendizado de Máquina Supervisionado, não Supervisionado e de Reforço; Supervisionado: Classificação x Regressão;
+Método dos Mínimos Quadrados; `ols` statsmodels; R2 e R2 ajustado; p-values dos coeficientes.*
