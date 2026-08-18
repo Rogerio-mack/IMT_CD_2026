@@ -17,11 +17,14 @@
 
 ## Programação (2o Semestre)
 
-**11.08** **Aprendizado Supervisionado: Regressão Linear**
+**11.08** **Aprendizado de Máquina e Aprendizado Supervisionado **
 
 > * [Introdução ao Aprendizado de Máquina](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML1_introducao.ipynb)
 
+> *ML X IA X Redes neurais; Aprendizado de Máquina Supervisionado, não Supervisionado e de Reforço; Supervisionado: Classificação x Regressão;*
+
+**18.08** **Aprendizado Supervisionado: Regressão Linear**
+
 > * [Aprendizado Supervisionado e Regressão Linear](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML2_Regressao.ipynb)
 
-> *ML X IA X Redes neurais; Aprendizado de Máquina Supervisionado, não Supervisionado e de Reforço; Supervisionado: Classificação x Regressão;
-Método dos Mínimos Quadrados; `ols` statsmodels; R2 e R2 ajustado; p-values dos coeficientes.*
+> *Aprendizado Supervisionado: Regressão Linear; Método dos Mínimos Quadrados; `ols` statsmodels; R2 e R2 ajustado; p-values dos coeficientes.*
