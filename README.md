@@ -17,7 +17,7 @@
 
 ## Programação (2o Semestre)
 
-**11.08** **Aprendizado de Máquina e Aprendizado Supervisionado **
+**11.08** **Aprendizado de Máquina e Aprendizado Supervisionado**
 
 > * [Introdução ao Aprendizado de Máquina](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML1_introducao.ipynb)
 
