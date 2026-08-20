@@ -28,3 +28,5 @@
 > * [Aprendizado Supervisionado e Regressão Linear](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML2_Regressao.ipynb)
 
 > *Aprendizado Supervisionado: Regressão Linear; Método dos Mínimos Quadrados; `ols` statsmodels; R2 e R2 ajustado; p-values dos coeficientes.*
+
+> * [Exercício](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2026/blob/main/IMT_regressao_scale.ipynb)
