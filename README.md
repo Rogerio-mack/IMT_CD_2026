@@ -31,3 +31,7 @@
 
 > * [Exercício](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2026/blob/main/IMT_regressao_scale.ipynb)
  | [Solução](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2026/blob/main/IMT_regressao_scale_solucao.ipynb)
+
+**25.08** **Aprendizado Supervisionado: Regressão Linear e Não Linear**
+
+> [Modelos Robustos e Não Lineares](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2026/blob/main/IMT_robust_regression.ipynb)
