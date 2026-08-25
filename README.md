@@ -30,3 +30,4 @@
 > *Aprendizado Supervisionado: Regressão Linear; Método dos Mínimos Quadrados; `ols` statsmodels; R2 e R2 ajustado; p-values dos coeficientes.*
 
 > * [Exercício](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2026/blob/main/IMT_regressao_scale.ipynb)
+ | [Solução](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2026/blob/main/IMT_regressao_scale_solucao.ipynb)
