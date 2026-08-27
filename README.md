@@ -36,4 +36,15 @@
 
 > * [Modelos Robustos e Não Lineares](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2026/blob/main/IMT_robust_regression.ipynb)
 
-> *Variáveis de Interação; Modelos de Regressão não Linear com o scikit-learn; Modelos Robustos para a presença de outliers* 
+> *Variáveis de Interação; Modelos de Regressão não Linear com o scikit-learn; Modelos Robustos para a presença de outliers*
+
+> * [Tratamento de nulos, Hot e Label encode, Scale](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2026/blob/main/IMT_ex_hot_null_encode_scale.ipynb)
+
+**21.09** **Aprendizado Supervisionado: Modelos L1/L2**
+
+> * Apresentação do **Desafio do Semestre** (21.09)
+ 
+> * Exercício Avaliativo (03.09)
+
+
+
