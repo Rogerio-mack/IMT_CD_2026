@@ -42,7 +42,9 @@
 
 **01.09** **Aprendizado Supervisionado: Modelos L1/L2**
 
-> * Apresentação do **Desafio do Semestre** (01.09)
+> * [Modelos de Regularização](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2026/blob/main/IMT_CD_L1L2_Regression.ipynb)
+
+> * [Apresentação do **Desafio do Semestre**](https://github.com/Rogerio-mack/IMT_CD_2026/blob/main/IMT_CD_PROJETO2_2026.pdf)  
  
 > * Exercício Avaliativo (03.09)
 
