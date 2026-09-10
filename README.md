@@ -48,5 +48,10 @@
  
 > * Exercício Avaliativo (03.09)
 
+**08.09** **Aprendizado Supervisionado: Modelos de Classificação**
 
+> * [Regressão Logística](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2026/blob/main/IMT_RegressaoLogistica.ipynb)
 
+> * [K-vizinhos mais Próximos](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML4_Knn.ipynb)
+
+> *Regressão logística, acuracidade, overfitting, conjuntos de treinamento e teste, matriz de confusão, métricas: precisão, recall, F1-score, K-vizinhos mais Próximos*
