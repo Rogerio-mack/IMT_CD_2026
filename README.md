@@ -58,9 +58,9 @@
 
 **15.09** **Classificação: Cross Validation, Regressão: Séries Temporais**
 
-> * [Cross Validation](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML6_CV_GridSearch.ipynb)
+> * [Cross Validation](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML6_CV_GridSearch.ipynb), *conteúdo: somente CV*
 
-> * [Regressão e Séries Temporais](https://colab.research.google.com/github/Introducao-Series-Temporais-em-Python/Book/blob/main/Cap5.ipynb)
+> * [Regressão e Séries Temporais](https://colab.research.google.com/github/Introducao-Series-Temporais-em-Python/Book/blob/main/Cap5.ipynb) *conteúdo: somente regressão e séries temporais*
 
 > * [Exercício](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2026/blob/main/IMT_Classification_CV_exercicio.ipynb) | [Solução](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2026/blob/main/IMT_Classification_CV_exercicio_solucao.ipynb)
 
