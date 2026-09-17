@@ -62,7 +62,7 @@
 
 > * [Regressão e Séries Temporais](https://colab.research.google.com/github/Introducao-Series-Temporais-em-Python/Book/blob/main/Cap5.ipynb) *conteúdo: somente regressão e séries temporais*
 
-> * [Exercício](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2026/blob/main/IMT_Classification_CV_exercicio.ipynb) | [Solução](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2026/blob/main/IMT_Classification_CV_exercicio_solucao.ipynb)
+> * [Exercício](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2026/blob/main/IMT_Classification_CV_exercicio.ipynb) | [Solução](https://colab.research.google.com/drive/14qYyQ-ddOtF7B_thvb8BaRMAnGjKnQlV?usp=sharing)
 
 > * [Exercício Avaliativo](https://docs.google.com/forms/d/e/1FAIpQLSe086-FVo0hMCzyb8sp1VNjuhXqQGKVi4X89LgMgz5B4i0wJg/viewform?usp=publish-editor), *Respostas aceitas até September 21, 2026, 11:59:00 PM GMT-3*
 
