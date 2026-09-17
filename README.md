@@ -55,3 +55,13 @@
 > * [K-vizinhos mais Próximos](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML4_Knn.ipynb)
 
 > *Regressão logística, acuracidade, overfitting, conjuntos de treinamento e teste, matriz de confusão, métricas: precisão, recall, F1-score, K-vizinhos mais Próximos*
+
+**15.09** **Classificação: Cross Validation, Regressão: Séries Temporais**
+
+> * [Cross Validation](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML6_CV_GridSearch.ipynb)
+
+> * [Regressão e Séries Temporais](https://colab.research.google.com/github/Introducao-Series-Temporais-em-Python/Book/blob/main/Cap5.ipynb)
+
+> * [Exercício](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2026/blob/main/IMT_Classification_CV_exercicio.ipynb) | [Solução](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2026/blob/main/IMT_Classification_CV_exercicio_solucao.ipynb)
+
+> * [Exercício Avaliativo](https://docs.google.com/forms/d/e/1FAIpQLSe086-FVo0hMCzyb8sp1VNjuhXqQGKVi4X89LgMgz5B4i0wJg/viewform?usp=publish-editor), *Respostas aceitas até September 21, 2026, 11:59:00 PM GMT-3*
