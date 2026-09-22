@@ -46,7 +46,7 @@
 
 > * [Apresentação do **Desafio do Semestre**](https://github.com/Rogerio-mack/IMT_CD_2026/blob/main/IMT_CD_PROJETO2_2026.pdf)  
  
-> * Exercício Avaliativo (03.09)
+> * Exercício Avaliativo (03.09) | [Solução](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2026/blob/main/IMT_CD_EX_31_SP_Prices_Regression_solucao.ipynb)
 
 **08.09** **Aprendizado Supervisionado: Modelos de Classificação**
 
@@ -64,6 +64,6 @@
 
 > * [Exercício](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2026/blob/main/IMT_Classification_CV_exercicio.ipynb) | [Solução](https://colab.research.google.com/drive/14qYyQ-ddOtF7B_thvb8BaRMAnGjKnQlV?usp=sharing)
 
-> * [Exercício Avaliativo](https://docs.google.com/forms/d/e/1FAIpQLSe086-FVo0hMCzyb8sp1VNjuhXqQGKVi4X89LgMgz5B4i0wJg/viewform?usp=publish-editor), *Respostas aceitas até September 21, 2026, 11:59:00 PM GMT-3*
+> * [Exercício Avaliativo](https://docs.google.com/forms/d/e/1FAIpQLSe086-FVo0hMCzyb8sp1VNjuhXqQGKVi4X89LgMgz5B4i0wJg/viewform?usp=publish-editor), *Respostas aceitas até September 21, 2026, 11:59:00 PM GMT-3* | [Solução](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2026/blob/main/IMT_CD_EX_32_Classification_CV_exercicio_solucao.ipynb)
 
 > * [Planilha para seleção do dataset do desafio do semestre](https://docs.google.com/spreadsheets/d/1pu0Ht0mL-y2g3Dhr9CeZPB5d5tF01Acw/edit?usp=sharing&ouid=102152623479619184236&rtpof=true&sd=true), *máximo 3 grupos por dataset*
