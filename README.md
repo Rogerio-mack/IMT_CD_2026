@@ -67,3 +67,7 @@
 > * [Exercício Avaliativo](https://docs.google.com/forms/d/e/1FAIpQLSe086-FVo0hMCzyb8sp1VNjuhXqQGKVi4X89LgMgz5B4i0wJg/viewform?usp=publish-editor), *Respostas aceitas até September 21, 2026, 11:59:00 PM GMT-3* | [Solução](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2026/blob/main/IMT_CD_EX_32_Classification_CV_exercicio_solucao.ipynb)
 
 > * [Planilha para seleção do dataset do desafio do semestre](https://docs.google.com/spreadsheets/d/1pu0Ht0mL-y2g3Dhr9CeZPB5d5tF01Acw/edit?usp=sharing&ouid=102152623479619184236&rtpof=true&sd=true), *máximo 3 grupos por dataset*
+
+**24.09** **P3**
+
+> * P3: [form](https://docs.google.com/forms/d/e/1FAIpQLSerULWAHubcA3e6Eimn3M9w7Hs-20he_SragQ33OGZ2_GCOqw/viewform?usp=dialog) | [notebook](https://colab.research.google.com/drive/1hTSEgY8DmBcNpLr7FWTfPF9mZUOAY_TW?usp=sharing)
