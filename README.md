@@ -71,3 +71,17 @@
 **24.09** **P3**
 
 > * P3: [form](https://docs.google.com/forms/d/e/1FAIpQLSerULWAHubcA3e6Eimn3M9w7Hs-20he_SragQ33OGZ2_GCOqw/viewform?usp=dialog) | [notebook](https://colab.research.google.com/drive/1hTSEgY8DmBcNpLr7FWTfPF9mZUOAY_TW?usp=sharing)
+ 
+**24.09** **Árvores de Decisão, Seleção de Atributos**
+
+> * [**Árvores de Decisão e Seleção de Atributos**](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML5_DecisionTrees.ipynb)
+
+> *Árvores de Decisão; Entropia; Ganho de Informação; Conatrução de Árvores de Decisão; Nós terminais; Informação Mútua; Seleção de Atributos.* 
+
+**06.10** **Seleção de Modelos**
+
+> * [**Validação Cruzada e GridSearch**](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML6_CV_GridSearch.ipynb)
+
+> * [**Seleção de Modelos**](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML7_SelecaoDeModelos.ipynb)
+
+> *Seleção de Modelos; Parâmetros e Hiper parâmetros; Ensemble Models: Random Forest; Grid Search e seleção de Hiper Parâmetros.*
