@@ -83,5 +83,7 @@
 > * [Validação Cruzada e GridSearch](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML6_CV_GridSearch.ipynb)
 
 > * [Seleção de Modelos](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML7_SelecaoDeModelos.ipynb)
+ 
+> * [Exercício](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2026/blob/main/IMT_CD_Exercicio_pipeline_selecao_modelos_e_atributos.ipynb)
 
 > *Seleção de Modelos; Parâmetros e Hiper parâmetros; Ensemble Models: Random Forest; Grid Search e seleção de Hiper Parâmetros.*
