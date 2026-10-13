@@ -87,3 +87,5 @@
 > * [Exercício](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2026/blob/main/IMT_CD_Exercicio_pipeline_selecao_modelos_e_atributos.ipynb)
 
 > *Seleção de Modelos; Parâmetros e Hiper parâmetros; Ensemble Models: Random Forest; Grid Search e seleção de Hiper Parâmetros.*
+
+> [Notas 3o Bimestre](https://github.com/Rogerio-mack/IMT_CD_2026/raw/refs/heads/main/B3_notas.xlsx)
