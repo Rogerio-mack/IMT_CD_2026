@@ -70,7 +70,7 @@
 
 **24.09** **P3**
 
-> * P3: [form](https://docs.google.com/forms/d/e/1FAIpQLSerULWAHubcA3e6Eimn3M9w7Hs-20he_SragQ33OGZ2_GCOqw/viewform?usp=dialog) | [notebook](https://colab.research.google.com/drive/1hTSEgY8DmBcNpLr7FWTfPF9mZUOAY_TW?usp=sharing)
+> * P3: [form](https://docs.google.com/forms/d/e/1FAIpQLSerULWAHubcA3e6Eimn3M9w7Hs-20he_SragQ33OGZ2_GCOqw/viewform?usp=dialog) | [notebook](https://colab.research.google.com/drive/1hTSEgY8DmBcNpLr7FWTfPF9mZUOAY_TW?usp=sharing) | [Solução](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2026/blob/main/IMT_CD_P3_2026_solucao.ipynb), *ver planilha de notas, foram consideradas várias alternativas*
  
 **24.09** **Árvores de Decisão, Seleção de Atributos**
 
