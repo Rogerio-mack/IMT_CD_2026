@@ -89,3 +89,14 @@
 > *Seleção de Modelos; Parâmetros e Hiper parâmetros; Ensemble Models: Random Forest; Grid Search e seleção de Hiper Parâmetros.*
 
 > [Notas 3o Bimestre](https://github.com/Rogerio-mack/IMT_CD_2026/raw/refs/heads/main/B3_notas.xlsx)
+
+**15.10** **Introdução ao Processamento de Linguagem Natural**
+
+> * [Processamento de Linguagem Natural](https://github.com/Rogerio-mack/IMT_CD_2026/blob/main/IMT_TFIDF_word2vec.pdf)
+
+> * [Trabalhando com Texto, Introdução ao TF-IDF (apresentação) e NLKT](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_TFIDF_word2vec.ipynb)
+
+> * [TF-IDF scikit-learn, Text Classification](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/IMT_TFIDF_Sentiment_Embedding.ipynb) 
+
+
+
