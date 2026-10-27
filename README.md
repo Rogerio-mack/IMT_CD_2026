@@ -96,7 +96,8 @@
 
 > * [Trabalhando com Texto, Introdução ao TF-IDF (apresentação) e NLKT](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_TFIDF_word2vec.ipynb)
 
-> * [TF-IDF scikit-learn, Text Classification](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/IMT_TFIDF_Sentiment_Embedding.ipynb) 
+**27.10** **Incorporação no Aprendizado de Máquina**
 
+> * [TF-IDF scikit-learn, Text Classification](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2026/blob/main/IMT_TFIDF_Embedding.ipynb)
 
 
