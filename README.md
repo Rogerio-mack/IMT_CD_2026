@@ -84,13 +84,15 @@
 
 > * [Seleção de Modelos](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML7_SelecaoDeModelos.ipynb)
  
+**13.10** **Seleção de Modelos**
+
 > * [Exercício](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2026/blob/main/IMT_CD_Exercicio_pipeline_selecao_modelos_e_atributos.ipynb)
 
 > *Seleção de Modelos; Parâmetros e Hiper parâmetros; Ensemble Models: Random Forest; Grid Search e seleção de Hiper Parâmetros.*
 
 > [Notas 3o Bimestre](https://github.com/Rogerio-mack/IMT_CD_2026/raw/refs/heads/main/B3_notas.xlsx)
 
-**15.10** **Introdução ao Processamento de Linguagem Natural**
+**20.10** **Introdução ao Processamento de Linguagem Natural**
 
 > * [Processamento de Linguagem Natural](https://github.com/Rogerio-mack/IMT_CD_2026/blob/main/IMT_TFIDF_word2vec.pdf)
 
@@ -100,4 +102,29 @@
 
 > * [TF-IDF scikit-learn, Text Classification](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2026/blob/main/IMT_TFIDF_Embedding.ipynb)
 
+> * [Curva ROC](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/IMT_ROC.ipynb)
 
+**29.10** **Aprendizado não Supervisionado**
+
+> * [PCA, scikit-learn, Clustering and Classification](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2026/blob/main/IMT_PCA_scikitlearn.ipynb)
+
+> * [Aprendizado não Supervisionado: Clustering](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2026/blob/main/IMT_Clustering.ipynb)
+
+**03.11** **PCA & Clustering: K-médias**
+
+> * [PCA, scikit-learn, Clustering and Classification](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2026/blob/main/IMT_PCA_scikitlearn.ipynb)
+>> * [PCA, by definition (math)](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2026/blob/main/IMT_PCA_by_definition.ipynb)
+
+> * [Aprendizado não Supervisionado: Clustering K-Médias](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2026/blob/main/IMT_Clustering.ipynb)
+
+> * Exercício Avaliativo (05.11)
+
+**10.11** **PCA & Clustering: HCluster**
+
+> * [Aprendizado não Supervisionado: Clustering HCluster](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2026/blob/main/IMT_Clustering.ipynb)
+
+> * **Apresentação dos Projetos** (12.11)
+
+**16.11 a 28.11 Provas Finais** 
+
+**07.12 a 12.12 Provas Substitutivas** 
