@@ -125,6 +125,8 @@
 
 > * **Apresentação dos Projetos** (12.11)
 
+> * [Link para entrega dos projetos](https://docs.google.com/forms/d/e/1FAIpQLScxCHOifSVNs9rEuOfWIRXrkj8as6l4sFbBq5S8yDrZA6GJbA/viewform?usp=dialog)
+
 **16.11 a 28.11 Provas Finais** 
 
 **07.12 a 12.12 Provas Substitutivas** 
