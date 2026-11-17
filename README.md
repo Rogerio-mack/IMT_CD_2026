@@ -129,4 +129,29 @@
 
 **16.11 a 28.11 Provas Finais** 
 
+Parte escrita, 4 questões envolvendo:
+1. Os passos dos algortimos K-médias e Clusterização Hierárquica (construção do dendograma)
+2. As diferenças entre seleção de features e a redução de dimensionalidade por PCA
+3. Conceito de curva ROC
+4. Diferenças entre word embedding (incorporação) e outros esquemas de vetorização de textos
+
+Parte prática (Lab), um problema envolvendo dados, com ou sem campos texto, envolvendo:
+1. Seleção de um modelo de classificação empregando 
+`cv = StratifiedKFold(n_splits=5, shuffle=True, random_state=42)`
+e seleção pelo AUC-ROC (área sob a Curva ROC) para múltiplas classes
+2. Uma clusterização dos mesmos dados, k-means e HCluster
+3. Execução dos mesmos modelos com redução de dimensionalidade (PCA)
+4. Verificação e discussão de resultados, incluindo acuracidade de clusterização
+
 **07.12 a 12.12 Provas Substitutivas** 
+
+Parte escrita, questões envolvendo: 
+1. Regularização
+2. Modelos robustos de regressão linear
+3. Detecção de anomalia (incluída no projeto)
+4. Curva ROC
+5. PCA
+
+Parte prática (Lab):
+1. Parte I: Previsão de Série temporal, com comparativo de modelos estatísticos e de aprendizado de máquina
+2. Parte II: Classificação e Clusterização, envolvendo LLM embedding, GridSearch CV e acuracidade de clusterização
